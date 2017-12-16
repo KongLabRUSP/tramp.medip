@@ -1,0 +1,66 @@
+# |------------------------------------------|
+# | Project: MeDIP, C57|vs. TRAMP at 24 weeks|
+# | Authors: Wenji, Davit                    |
+# | Created: 10/19/2017                      |
+# |------------------------------------------|
+#********************************************************************
+# Create constants
+# 1. Bismark
+BM="/home/administrator/Documents/Bismark/bismark"
+
+# 2. Gene reference files
+GENE_REF="/home/administrator/Documents/mm9.2_for_bismark"
+
+# 3. Home directory
+HOME_DIR="/home/administrator/Documents/tramp.medip/"
+
+# Change working directory
+cd $HOME_DIR"BAM_Files"
+ls
+
+# NOTE: these are pair-ended reads
+# Separate to forward and reverse reads
+samtools view -b -F 0X10 C57_24wks.bam > split/C57_F.bam
+samtools view -b -f 0X10 C57_24wks.bam > split/C57_R.bam
+
+samtools view -b -F 0X10 Tramp_24wks.bam > split/Tramp_F.bam
+samtools view -b -f 0X10 Tramp_24wks.bam > split/Tramp_R.bam
+
+# Step0: Quality control of FastQ files with Fast QC 
+cd $HOME_DIR"BAM_Files/split"
+fastqc \
+--extract \
+--outdir=$HOME_DIR"FastQC" \
+*.bam
+
+# Step1: Allign all FastQ files in the the directory
+# Step2: Sort and Index
+# Step3: Deduplicate
+# All DONE by the vendor!
+
+# Step3: Extract methylated/unmethylated counts from alignment files
+samtools view -h WJ1.bam | \
+python extract_CpG_data.py -i - -o $HOME_DIR"COV_Files/WJ1.cov"
+samtools view -h WJ2.bam | \
+python extract_CpG_data.py -i - -o $HOME_DIR"COV_Files/WJ2.cov"
+samtools view -h WJ3.bam | \
+python extract_CpG_data.py -i - -o $HOME_DIR"COV_Files/WJ3.cov"
+samtools view -h WJ5.bam | \
+python extract_CpG_data.py -i - -o $HOME_DIR"COV_Files/WJ5.cov"
+samtools view -h WJ7.bam | \
+python extract_CpG_data.py -i - -o $HOME_DIR"COV_Files/WJ7.cov"
+
+# # LOOP?
+# find *bam -exec python extract_CpG_data.py -i - -o {}.cov \;
+# OR
+# samtools view -h *.bam | \
+# python extract_CpG_data.py -i - -o *.cov
+
+# Step 4: Cluster CpG sites into regions
+cd $HOME_DIR"COV_Files"
+python combine_CpG_sites.py \
+-o combined.csv *.cov
+
+# Step 5: Test regions for differential methylation
+Rscript findDMRs.r -i combined.csv -o results.csv \
+-n WJ1 WJ2 WJ3 WJ5 WJ7
