@@ -11,8 +11,6 @@
 require(data.table)
 require(ggplot2)
 
-setwd("MeDIP_TRAMP_Wenji")
-
 # Read data from CSV----
 # Positive vs. negative controls
 dt1 <- fread("data/all_undo_aug 2017-filtered.csv")
@@ -116,12 +114,71 @@ p1 <- ggplot(data = dt2) +
                                    hjust = 1),
         plot.title = element_text(hjust = 0.5),
         legend.position = "top")
-
+p1
 tiff(filename = "tmp/MeDIP_Wenji_TopUp_TopDown.tiff",
      height = 12,
      width = 10,
      units = 'in',
      res = 300,
+     compression = "lzw+p")
+print(p1)
+graphics.off()
+
+# Figure for Futured Article----
+# Top X upregulated regions
+top.upreg <- dt1[1:25, ]
+top.upreg$reg <- "Decreased Methylation" 
+# Order by id
+top.upreg <- top.upreg[order(id)]
+
+# Top X downregulated regions----
+top.downreg <- dt1[(nrow(dt1) - 24):nrow(dt1)]  
+top.downreg$reg <- "Increased Methylaton"
+# Order by id
+top.downreg <- top.downreg[order(id)]
+
+# Merge
+dt2 <- rbindlist(list(top.upreg,
+                      top.downreg))
+dt2$id <- factor(dt2$id,
+                 levels = rev(dt2$id))
+dt2$reg <- factor(dt2$reg,
+                  levels = unique(dt2$reg))
+
+# Save to CSV
+write.csv(dt2,
+          file = "tmp/MeDIP_Wenji_TopUp_TopDown_25.csv",
+          row.names = FALSE)
+
+# Heatmap of top genes
+p1 <- ggplot(data = dt2) +
+  facet_wrap(~ reg,
+             scales = "free_y") +
+  geom_tile(aes(x =  Note,
+                y = id,
+                fill = `Expr Log Ratio`),
+            color = "black") +
+  scale_fill_gradient2(low = "red", 
+                       high = "green", 
+                       mid = "black", 
+                       midpoint = 0, 
+                       limit = c(-6, 6), 
+                       name="Methylation Difference") +
+  scale_x_discrete("Location",
+                   expand = c(0, 0)) + 
+  scale_y_discrete("Gene  and Region",
+                   expand = c(0, 0)) +
+  ggtitle("")  +
+  theme(axis.text.x = element_text(angle = 20,
+                                   hjust = 1),
+        legend.title = element_text(hjust = 0.5),
+        legend.position = "bottom")
+p1
+tiff(filename = "tmp/MeDIP_Wenji_TopUp_TopDown_25.tiff",
+     height = 6,
+     width = 7,
+     units = 'in',
+     res = 600,
      compression = "lzw+p")
 print(p1)
 graphics.off()

@@ -13,11 +13,17 @@
 [technology](#tech)   
 
 ## File Legend<a name="logs"></a>
-**run_terminal_wenji_medip_v1**: Bismark/Samtools script for reads' alignment    
-**MeDIP_heatmap.R**: 
+### Source Folder
+**run_terminal_wenji_medip_v1**: Bismark/Samtools script for reads' alignment 
+**MeDIP_heatmap_IPA_output.R**: script for heatmaps for the publication and the Futured Article page    
+**MeDIP_heatmap.R**: older heatmap script    
+**tramp_medip_total_methyl_plot_v1.R**: experimental script to mimic total methylation plot from another publication. Not used.
 
 ## Daily Logs<a name="logs"></a>
 ### 05/09/2018
+* Used latest data file to redraw heatmaps for the Featured Article page
+
+### 05/08/2018
 * Consolidated MeDIP files    
 * Reran hitmap script
 
