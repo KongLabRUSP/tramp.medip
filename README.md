@@ -8,23 +8,19 @@
 
 ## Table of Contents
 [Files](#files)
+[Daily Logs](#logs)  
 [Results](#results)   
 [technology](#tech)   
-[Daily Logs](#logs)   
 
-## Files<a name="files"></a>
-## Results <a name="results"></a>
-
-## Technology<a name="tech"></a>
-[**Methylated DNA immunoprecipitation** (**MeDIP** or **mDIP**) is a large-scale (chromosome- or genome-wide) purification technique in molecular biology that is used to enrich for methylated DNA sequences. It consists of isolating methylated DNA fragments via an antibody raised against 5-methylcytosine (5mC). This technique was first described by Weber M. et al.[1] in 2005 and has helped pave the way for viable methylome-level assessment efforts, as the purified fraction of methylated DNA can be input to high-throughput DNA detection methods such as high-resolution DNA microarrays (MeDIP-chip) or next-generation sequencing (MeDIP-seq). Nonetheless, understanding of the methylome remains rudimentary; its study is complicated by the fact that, like other epigenetic properties, patterns vary from cell-type to cell-type.](https://en.wikipedia.org/wiki/Methylated_DNA_immunoprecipitation)
-
-###Objectives
-
-## Design
-* Wild Type vs. TRAMP mice    
-* DMA methylation at 24 weeks    
+## File Legend<a name="logs"></a>
+**run_terminal_wenji_medip_v1**: Bismark/Samtools script for reads' alignment    
+**MeDIP_heatmap.R**: 
 
 ## Daily Logs<a name="logs"></a>
+### 05/09/2018
+* Consolidated MeDIP files    
+* Reran hitmap script
+
 ### 08/01/2017
 * Imported data from an Excel sheet 'tramp_peaks_anno_cpg.csv', originally from an Excel file of the same name.    
 * Used variables:    
@@ -83,3 +79,16 @@ Epigenetic alterations in TRAMP mice: genomic DNA methylation profiling using Me
 like other cancers, arises from epigenetic modifications as well as genomic alterations (5, 6). We have conducted methylated DNA immunoprecipitation (MeDIP) with next- generation sequencing (MeDIP-seq) followed by Ingenuity Pathway Analysis to analyze and compare the whole genomic DNA methylation patterns between TRAMP tumors and control prostates from WT (C57BL/6) mice. The results from this study have been submitted for publication and tentatively acceptable for publication with revision in Life Sciences, ?Epigenetic alterations in TRAMP mice: genomic DNA methylation profiling using MeDIP-seq? by Wenji Li, Ying Huang, Tin Oo Khor, Guo Yue, Limin Shu, Anne Yuqing Yang, Chengyue Zhang, Michael Verzi, Ronald P Hart, and Ah-Ng Tony Kong (publication #3). The results from this study show that abnormal methylation status in CpG islands of a variety of genes in TRAMP tumors.
 
 A.-N. Tony Kong, Ph.D.
+
+## Files<a name="files"></a>
+
+## Technology<a name="tech"></a>
+[**Methylated DNA immunoprecipitation** (**MeDIP** or **mDIP**) is a large-scale (chromosome- or genome-wide) purification technique in molecular biology that is used to enrich for methylated DNA sequences. It consists of isolating methylated DNA fragments via an antibody raised against 5-methylcytosine (5mC). This technique was first described by Weber M. et al.[1] in 2005 and has helped pave the way for viable methylome-level assessment efforts, as the purified fraction of methylated DNA can be input to high-throughput DNA detection methods such as high-resolution DNA microarrays (MeDIP-chip) or next-generation sequencing (MeDIP-seq). Nonetheless, understanding of the methylome remains rudimentary; its study is complicated by the fact that, like other epigenetic properties, patterns vary from cell-type to cell-type.](https://en.wikipedia.org/wiki/Methylated_DNA_immunoprecipitation)
+
+## Results <a name="results"></a>
+
+###Objectives
+
+## Design
+* Wild Type vs. TRAMP mice    
+* DMA methylation at 24 weeks    

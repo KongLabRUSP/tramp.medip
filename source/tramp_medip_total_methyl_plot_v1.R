@@ -33,8 +33,9 @@ hist(tmp$gene_lenght_x, 100)
 tmp$pct_in_x <- dt.in$distancetoFeature/tmp$gene_lenght_x
 hist(tmp$pct_in_x)
 
-tmp$pct_in_y <- dt.in$distancetoFeature/tmp$gene_lenght_y
-hist(tmp$pct_in_y)
+# ??
+# tmp$pct_in_y <- dt.in$distancetoFeature/tmp$gene_lenght_y
+# hist(tmp$pct_in_y)
 
 tmp$val1 <- dt.in$value_1
 tmp$val2 <- dt.in$value_2
