@@ -1,0 +1,1566 @@
+Expr Log Ratio,Note,ID,Symbol,Entrez Gene Name,Location,Type(s)
+4.993,upstream,Fgd4,FGD4,"FYVE, RhoGEF and PH domain containing 4",Cytoplasm,other
+4.993,downstream,Med13l,MED13L,mediator complex subunit 13 like,Nucleus,other
+4.926,inside,Dync1i1,DYNC1I1,dynein cytoplasmic 1 intermediate chain 1,Cytoplasm,other
+4.855,upstream,Gm8840,Gm8840,predicted gene 8840,Other,other
+4.703,inside,Eapp,EAPP,E2F associated phosphoprotein,Cytoplasm,other
+4.703,downstream,Gm12242,Gm12242,ribosomal protein S6 pseudogene,Other,other
+4.621,upstream,Tcp1-ps1,Tcp1-ps1,"t-complex protein 1, pseudogene 1",Other,other
+4.621,upstream,Wdr35,WDR35,WD repeat domain 35,Cytoplasm,other
+4.534,upstream,Tgfa,TGFA,transforming growth factor alpha,Extracellular Space,growth factor
+4.44,upstream,Btg1,BTG1,BTG anti-proliferation factor 1,Nucleus,transcription regulator
+4.44,upstream,Gm12813,Gm12813,selection and upkeep of intraepithelial T-cells protein 11-like,Other,other
+4.341,upstream,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+4.341,upstream,Gja1,GJA1,gap junction protein alpha 1,Plasma Membrane,transporter
+4.341,includeFeature,Rpl36-ps3,Rpl36-ps3,"ribosomal protein L36, pseudogene 3",Other,other
+4.234,upstream,1700003H04Rik,1700003H04Rik,RIKEN cDNA 1700003H04 gene,Other,other
+4.234,downstream,Gm15442,Gm15442,zinc finger protein 114 pseudogene,Other,other
+4.234,downstream,Zfp640,Zfp640,zinc finger protein 640,Other,other
+4.234,downstream,Zim1,Zim1,"zinc finger, imprinted 1",Nucleus,other
+4.177,upstream,Gm13239,Gm13239,high mobility group box 3 pseudogene,Other,other
+4.119,upstream,Rfx4,Rfx4,regulatory factor X4,Nucleus,transcription regulator
+4.119,upstream,Rpl21-ps5,Rpl21-ps5,"ribosomal protein L21, pseudogene 5",Other,other
+4.119,upstream,S100a5,S100A5,S100 calcium binding protein A5,Nucleus,other
+4.119,downstream,Sox17,SOX17,SRY-box 17,Nucleus,transcription regulator
+4.119,inside,Tmem181b-ps,Tmem181b-ps,"transmembrane protein 181B, pseudogene",Other,other
+4.119,upstream,Zfp40,Zfp40,zinc finger protein 40,Other,other
+4.057,upstream,Gm8840,Gm8840,predicted gene 8840,Other,other
+3.993,inside,4930546C10Rik,4930546C10Rik,RIKEN cDNA 4930546C10 gene,Other,other
+3.993,upstream,Gm14554,Gm14554,WD repeat domain 44 pseudogene,Other,other
+3.993,downstream,Gm4787,Adam4/Gm4787,a disintegrin and metallopeptidase domain 4,Other,peptidase
+3.993,upstream,Ism2,Ism2,isthmin 2,Other,other
+3.993,upstream,Kif22-ps,Kif22-ps,"kinesin family member 22, pseudogene",Other,other
+3.993,inside,Pdgfrl,PDGFRL,platelet derived growth factor receptor like,Plasma Membrane,kinase
+3.993,upstream,Pid1,Pid1,phosphotyrosine interaction domain containing 1,Cytoplasm,other
+3.993,upstream,Zkscan2,ZKSCAN2,zinc finger with KRAB and SCAN domains 2,Nucleus,transcription regulator
+3.926,inside,Dmxl2,DMXL2,Dmx like 2,Cytoplasm,other
+3.926,inside,Lepr,LEPR,leptin receptor,Plasma Membrane,transmembrane receptor
+3.855,upstream,Aoah,AOAH,acyloxyacyl hydrolase,Extracellular Space,enzyme
+3.855,inside,Apol7e,Apol7e (includes others),apolipoprotein L 7e,Other,other
+3.855,inside,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+3.855,upstream,Cacng6,CACNG6,calcium voltage-gated channel auxiliary subunit gamma 6,Plasma Membrane,ion channel
+3.855,inside,Chchd3,CHCHD3,coiled-coil-helix-coiled-coil-helix domain containing 3,Cytoplasm,transcription regulator
+3.855,upstream,Cntnap5b,Cntnap5b,contactin associated protein-like 5B,Other,other
+3.855,inside,Fam174b,FAM174B,family with sequence similarity 174 member B,Other,other
+3.855,inside,Galnt13,GALNT13,polypeptide N-acetylgalactosaminyltransferase 13,Cytoplasm,enzyme
+3.855,upstream,Gm10351,Gm10351,predicted gene 10351,Other,other
+3.855,downstream,Gm13244,Gm13244,predicted gene 13244,Other,other
+3.855,upstream,Gpr165,Gpr165,G protein-coupled receptor 165,Plasma Membrane,G-protein coupled receptor
+3.855,downstream,Gpr37,GPR37,G protein-coupled receptor 37,Plasma Membrane,G-protein coupled receptor
+3.855,downstream,Mup19,Mup1 (includes others),major urinary protein 1,Extracellular Space,other
+3.855,downstream,Mup2,Mup1 (includes others),major urinary protein 1,Extracellular Space,other
+3.855,downstream,Ngf,NGF,nerve growth factor,Extracellular Space,growth factor
+3.855,inside,Olfm3,OLFM3,olfactomedin 3,Cytoplasm,other
+3.855,inside,Pcbp3,PCBP3,poly(rC) binding protein 3,Nucleus,transcription regulator
+3.855,inside,Rbms3,RBMS3,RNA binding motif single stranded interacting protein 3,Other,other
+3.855,upstream,Setmar,Setmar,SET domain without mariner transposase fusion,Nucleus,enzyme
+3.855,downstream,Tmx1,TMX1,thioredoxin related transmembrane protein 1,Cytoplasm,enzyme
+3.807,inside,Slc1a4,SLC1A4,solute carrier family 1 member 4,Plasma Membrane,transporter
+3.781,inside,Vwc2l,Vwc2l,von Willebrand factor C domain-containing protein 2-like,Extracellular Space,other
+3.717,inside,Zfand3,ZFAND3,zinc finger AN1-type containing 3,Other,other
+3.703,downstream,1700022I11Rik,C9orf131,chromosome 9 open reading frame 131,Other,other
+3.703,downstream,4930584F24Rik,4930584F24Rik,RIKEN cDNA 4930584F24 gene,Other,other
+3.703,inside,Cryz,CRYZ,crystallin zeta,Cytoplasm,enzyme
+3.703,inside,Cyp2a5,CYP2A6 (includes others),cytochrome P450 family 2 subfamily A member 6,Cytoplasm,enzyme
+3.703,downstream,Cyp2a5,CYP2A6 (includes others),cytochrome P450 family 2 subfamily A member 6,Cytoplasm,enzyme
+3.703,downstream,Cyp51,CYP51A1,cytochrome P450 family 51 subfamily A member 1,Cytoplasm,enzyme
+3.703,downstream,Dmrta2,Dmrta2,DMRT-like family A2,Nucleus,other
+3.703,inside,Dpf3,Dpf3,double PHD fingers 3,Nucleus,other
+3.703,upstream,Dspp,DSPP,dentin sialophosphoprotein,Extracellular Space,other
+3.703,downstream,Galnt3,GALNT3,polypeptide N-acetylgalactosaminyltransferase 3,Cytoplasm,enzyme
+3.703,downstream,Gm10486,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+3.703,upstream,Gm10754,Gm10754,predicted gene 10754,Other,other
+3.703,upstream,Gm12413,Gm12413,phosphoglycerate mutase 1 pseudogene,Other,other
+3.703,inside,Gm12451,Gm12451,predicted gene 12451,Other,other
+3.703,upstream,Gm12460,Gm12460,predicted gene 12460,Other,other
+3.703,upstream,Gm13167,Gm13167,predicted gene 13167,Other,other
+3.703,upstream,Gm13232,Gm13232,predicted gene 13232,Other,other
+3.703,downstream,Gm14350,Gm14350,"spindlin family, member 2 pseudogene",Other,other
+3.703,downstream,Gm2066,Gm2066 (includes others),predicted pseudogene 2066,Other,other
+3.703,upstream,Gm378,Gm378,predicted pseudogene 378,Other,other
+3.703,downstream,Gm4991,Gm4991,karyopherin (importin) alpha 2 pseudogene,Other,other
+3.703,downstream,Gm5255,Gm5255,"protein phosphatase 1, regulatory (inhibitor) subunit 16B pseudogene",Other,other
+3.703,upstream,Gm5548,Gm5548,leptin receptor gene-related protein pseudogene,Other,other
+3.703,inside,Gm6121,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+3.703,upstream,Grip1,GRIP1,glutamate receptor interacting protein 1,Plasma Membrane,transcription regulator
+3.703,inside,Gucy1a2,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2,Cytoplasm,enzyme
+3.703,inside,Hnmt,HNMT,histamine N-methyltransferase,Cytoplasm,enzyme
+3.703,upstream,I830077J02Rik,C1orf162,chromosome 1 open reading frame 162,Other,transporter
+3.703,inside,Lrrc8b,LRRC8B,leucine rich repeat containing 8 family member B,Other,other
+3.703,inside,Mef2a,MEF2A,myocyte enhancer factor 2A,Nucleus,transcription regulator
+3.703,upstream,Nrg3,NRG3,neuregulin 3,Extracellular Space,growth factor
+3.703,downstream,Pabpc2,Pabpc2,"poly(A) binding protein, cytoplasmic 2",Cytoplasm,other
+3.703,upstream,Pcdh17,PCDH17,protocadherin 17,Plasma Membrane,other
+3.703,upstream,Pdp2,PDP2,pyruvate dehyrogenase phosphatase catalytic subunit 2,Cytoplasm,phosphatase
+3.703,inside,Sh2d4b,SH2D4B,SH2 domain containing 4B,Other,other
+3.703,inside,Smok3b,Smok2b (includes others),sperm motility kinase 2B,Other,kinase
+3.703,downstream,Snx7,SNX7,sorting nexin 7,Other,transporter
+3.703,upstream,St6galnac5,ST6GALNAC5,"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 5",Cytoplasm,enzyme
+3.703,inside,Trmu,TRMU,tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase,Cytoplasm,enzyme
+3.703,downstream,Tshz3,TSHZ3,teashirt zinc finger homeobox 3,Nucleus,transcription regulator
+3.703,upstream,Ttc39c,TTC39C,tetratricopeptide repeat domain 39C,Other,other
+3.703,downstream,Zfp11,ZNF546,zinc finger protein 546,Nucleus,other
+3.703,inside,Zfp277,ZNF277,zinc finger protein 277,Nucleus,transcription regulator
+3.621,inside,Eif4g3,EIF4G3,eukaryotic translation initiation factor 4 gamma 3,Cytoplasm,translation regulator
+3.592,upstream,Gm11516,Gm11516,"chaperonin containing Tcp1, subunit 3 (gamma) pseudogene",Other,other
+3.534,upstream,Hdhd2,HDHD2,haloacid dehalogenase like hydrolase domain containing 2,Cytoplasm,other
+3.534,upstream,Kif22-ps,Kif22-ps,"kinesin family member 22, pseudogene",Other,other
+3.534,upstream,Nr3c2,NR3C2,nuclear receptor subfamily 3 group C member 2,Nucleus,ligand-dependent nuclear receptor
+3.472,upstream,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+3.44,upstream,Dfna5,DFNA5,"DFNA5, deafness associated tumor suppressor",Cytoplasm,other
+3.44,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+3.341,upstream,1110008L16Rik,KIAA0391,KIAA0391,Cytoplasm,enzyme
+3.341,inside,Dmrtc1c1,Dmrtc1c1/Dmrtc1c2,DMRT-like family C1c2,Other,other
+3.341,inside,Dmrtc1c2,Dmrtc1c1/Dmrtc1c2,DMRT-like family C1c2,Other,other
+3.341,downstream,Gm14907,Gm14907,heat shock protein 1 (chaperonin) pseudogene,Other,other
+3.341,inside,Ispd,ISPD,isoprenoid synthase domain containing,Other,enzyme
+3.341,upstream,Magi1,MAGI1,"membrane associated guanylate kinase, WW and PDZ domain containing 1",Plasma Membrane,kinase
+3.341,downstream,Mnda,IFI16,interferon gamma inducible protein 16,Nucleus,transcription regulator
+3.341,inside,Muc5ac,MUC5AC,"mucin 5AC, oligomeric mucus/gel-forming",Cytoplasm,peptidase
+3.341,inside,Muc5ac,MUC5AC,"mucin 5AC, oligomeric mucus/gel-forming",Cytoplasm,peptidase
+3.341,inside,Prkrip1,PRKRIP1,PRKR interacting protein 1 (IL11 inducible),Nucleus,other
+3.341,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+3.341,upstream,Zfp709,ZNF443,zinc finger protein 443,Nucleus,transcription regulator
+3.234,inside,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+3.234,upstream,Chrac1,CHRAC1,chromatin accessibility complex 1,Nucleus,enzyme
+3.234,downstream,Cyp3a41a,CYP3A5,cytochrome P450 family 3 subfamily A member 5,Cytoplasm,enzyme
+3.234,inside,Ehmt1,EHMT1,euchromatic histone lysine methyltransferase 1,Nucleus,transcription regulator
+3.234,downstream,Gm2066,Gm2066 (includes others),predicted pseudogene 2066,Other,other
+3.234,downstream,Gm2288,Gm2288,predicted gene 2288,Other,other
+3.234,upstream,Khdrbs1,KHDRBS1,"KH RNA binding domain containing, signal transduction associated 1",Nucleus,transcription regulator
+3.234,inside,Kif21a,KIF21A,kinesin family member 21A,Cytoplasm,other
+3.234,downstream,Mir592,mir-592,microRNA 592,Cytoplasm,microRNA
+3.234,inside,Vwc2l,Vwc2l,von Willebrand factor C domain-containing protein 2-like,Extracellular Space,other
+3.197,inside,Unc80,UNC80,"unc-80 homolog, NALCN activator",Plasma Membrane,enzyme
+3.119,upstream,4933411G06Rik,4933411G06Rik,Sumo1 pseudogene,Other,other
+3.119,inside,Casp3,CASP3,caspase 3,Cytoplasm,peptidase
+3.119,inside,Cntn3,CNTN3,contactin 3,Plasma Membrane,other
+3.119,inside,Gm13142,Gm13142,"protein phosphatase 2, regulatory subunit B (B56), alpha isoform pseudogene",Other,other
+3.119,upstream,Gm4732,Gm2066 (includes others),predicted pseudogene 2066,Other,other
+3.119,inside,Kcnn3,KCNN3,potassium calcium-activated channel subfamily N member 3,Plasma Membrane,ion channel
+3.119,upstream,Pou6f2,Pou6f2,POU class 6 homeobox 2,Other,other
+3.119,downstream,Ppp1r3b,PPP1R3B,protein phosphatase 1 regulatory subunit 3B,Cytoplasm,other
+3.119,downstream,Rprm,RPRM,"reprimo, TP53 dependent G2 arrest mediator homolog",Cytoplasm,other
+3.119,upstream,Scaper,Scaper,S-phase cyclin A-associated protein in the ER,Nucleus,other
+3.119,upstream,Siglech,Siglech,sialic acid binding Ig-like lectin H,Plasma Membrane,other
+3.119,downstream,Zfy1,Zfy1/Zfy2,"zinc finger protein 1, Y-linked",Nucleus,other
+3.057,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+3.036,downstream,Cav1,CAV1,caveolin 1,Plasma Membrane,transmembrane receptor
+2.993,upstream,A630001G21Rik,A630001G21Rik,RIKEN cDNA A630001G21 gene,Other,other
+2.993,upstream,Antxr2,ANTXR2,anthrax toxin receptor 2,Plasma Membrane,transmembrane receptor
+2.993,upstream,Cdh9,CDH9,cadherin 9,Plasma Membrane,other
+2.993,inside,Ctnna2,CTNNA2,catenin alpha 2,Plasma Membrane,other
+2.993,inside,Gm10486,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.993,inside,Gm10488,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.993,downstream,Gm11847,Gm11847,heterogeneous nuclear ribonucleoprotein A3 pseudogene,Other,other
+2.993,upstream,Gm13084,Gm13084/Oog2,predicted gene 13084,Other,other
+2.993,overlapStart,Gm5662,Gm5662 (includes others),predicted gene 5662,Other,other
+2.993,downstream,Gm9062,Gm9062,mitochondrial ribosomal protein L10 pseudogene,Other,other
+2.993,overlapStart,Gm9755,Gm9755,Tu translation elongation factor pseudogene,Other,other
+2.993,downstream,Lcn9,LCN9,lipocalin 9,Extracellular Space,transporter
+2.993,upstream,Mall,MALL,"mal, T-cell differentiation protein like",Plasma Membrane,other
+2.993,downstream,Plod2,PLOD2,"procollagen-lysine,2-oxoglutarate 5-dioxygenase 2",Cytoplasm,enzyme
+2.993,inside,Pnpla1,PNPLA1,patatin like phospholipase domain containing 1,Cytoplasm,enzyme
+2.993,downstream,Rab11fip2,RAB11FIP2,RAB11 family interacting protein 2,Cytoplasm,other
+2.993,upstream,Rbbp8,RBBP8,"RB binding protein 8, endonuclease",Nucleus,enzyme
+2.993,inside,Shisa6,SHISA6,shisa family member 6,Plasma Membrane,other
+2.993,inside,Shisa6,SHISA6,shisa family member 6,Plasma Membrane,other
+2.993,inside,Sik2,Sik2,salt-inducible kinase 2,Other,other
+2.993,inside,Srbd1,SRBD1,S1 RNA binding domain 1,Other,other
+2.993,upstream,Sstr1,SSTR1,somatostatin receptor 1,Plasma Membrane,G-protein coupled receptor
+2.993,downstream,Tmtc3,TMTC3,transmembrane and tetratricopeptide repeat containing 3,Cytoplasm,other
+2.993,upstream,Twist2,TWIST2,twist family bHLH transcription factor 2,Nucleus,transcription regulator
+2.993,upstream,Vmn1r78,Vmn1r78,vomeronasal 1 receptor 78,Plasma Membrane,G-protein coupled receptor
+2.993,upstream,Vmn2r84,Vmn2r88 (includes others),"vomeronasal 2, receptor 88",Other,other
+2.993,upstream,Wasf2,Wasf2,"WAS protein family, member 2",Plasma Membrane,other
+2.993,downstream,Wnt7a,WNT7A,Wnt family member 7A,Extracellular Space,cytokine
+2.993,upstream,Zfp689,ZNF689,zinc finger protein 689,Nucleus,transcription regulator
+2.993,upstream,Zfp746,ZNF746,zinc finger protein 746,Cytoplasm,transcription regulator
+2.993,upstream,Zkscan2,ZKSCAN2,zinc finger with KRAB and SCAN domains 2,Nucleus,transcription regulator
+2.949,downstream,Cyp3a41b,CYP3A5,cytochrome P450 family 3 subfamily A member 5,Cytoplasm,enzyme
+2.949,downstream,Kif22-ps,Kif22-ps,"kinesin family member 22, pseudogene",Other,other
+2.926,downstream,Etos1,Etos1,ectopic ossification 1,Other,other
+2.855,downstream,1700056E22Rik,1700056E22Rik,RIKEN cDNA 1700056E22 gene,Other,other
+2.855,downstream,4931400O07Rik,4931400O07Rik,RIKEN cDNA 4931400O07 gene,Other,other
+2.855,upstream,Adamts3,ADAMTS3,ADAM metallopeptidase with thrombospondin type 1 motif 3,Extracellular Space,peptidase
+2.855,inside,Asxl2,ASXL2,"additional sex combs like 2, transcriptional regulator",Extracellular Space,other
+2.855,downstream,BC061212,A430089I19Rik (includes others),uncharacterized LOC545763,Other,other
+2.855,upstream,Camk1d,CAMK1D,calcium/calmodulin dependent protein kinase ID,Cytoplasm,kinase
+2.855,upstream,Ccdc57,Ccdc57,coiled-coil domain containing 57,Other,other
+2.855,downstream,Chd5,CHD5,chromodomain helicase DNA binding protein 5,Nucleus,enzyme
+2.855,upstream,Chordc1,CHORDC1,cysteine and histidine rich domain containing 1,Other,other
+2.855,upstream,Coro2b,CORO2B,coronin 2B,Other,other
+2.855,upstream,Cox7c,Cox7c,cytochrome c oxidase subunit VIIc,Cytoplasm,other
+2.855,upstream,Crry-ps,Crry-ps,"complement receptor related protein, pseudogene",Other,other
+2.855,upstream,Cwh43,CWH43,cell wall biogenesis 43 C-terminal homolog,Other,other
+2.855,overlapEnd,Defa23,Defa3 (includes others),"defensin, alpha, 3",Extracellular Space,other
+2.855,inside,Drd3,DRD3,dopamine receptor D3,Plasma Membrane,G-protein coupled receptor
+2.855,upstream,Ethe1,ETHE1,"ETHE1, persulfide dioxygenase",Cytoplasm,enzyme
+2.855,downstream,Fzd8,FZD8,frizzled class receptor 8,Plasma Membrane,G-protein coupled receptor
+2.855,upstream,Gm10324,ZNF700,zinc finger protein 700,Extracellular Space,other
+2.855,downstream,Gm10324,ZNF700,zinc finger protein 700,Extracellular Space,other
+2.855,upstream,Gm11787,Gm11787,predicted gene 11787,Other,other
+2.855,upstream,Gm11805,Gm11805,high mobility group box 3 pseudogene,Other,other
+2.855,downstream,Gm14334,Gm14334,"spindlin family, member 2 pseudogene",Other,other
+2.855,upstream,Gm14632,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.855,upstream,Gm14819,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.855,downstream,Gm15367,Gm15367,acyl-Coenzyme A binding domain containing 5 pseudogene,Other,other
+2.855,downstream,Gm17014,Gm17014,predicted gene 17014,Other,other
+2.855,upstream,Gm17068,Gm17068,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+2.855,downstream,Gm2288,Gm2288,predicted gene 2288,Other,other
+2.855,upstream,Gm3298,Gm16440 (includes others),predicted gene 16440,Other,other
+2.855,upstream,Gm3757,SPIN2A/SPIN2B,spindlin family member 2A,Other,other
+2.855,upstream,Gm5152,Gm5152,predicted gene 5152,Other,other
+2.855,upstream,Gm5913,Gm5913,Ras-GTPase-activating protein SH3-domain binding protein 1 pseudogene,Other,other
+2.855,downstream,Gm7353,Gm7353,zinc finger CCCH type containing 3 pseudogene,Other,other
+2.855,upstream,Gm7416,Gm7416,methionine aminopeptidase 2 pseudogene,Other,other
+2.855,upstream,H2afz,H2AFZ,H2A histone family member Z,Nucleus,other
+2.855,downstream,Kctd8,KCTD8,potassium channel tetramerization domain containing 8,Other,other
+2.855,upstream,Kif22-ps,Kif22-ps,"kinesin family member 22, pseudogene",Other,other
+2.855,downstream,Kif22-ps,Kif22-ps,"kinesin family member 22, pseudogene",Other,other
+2.855,inside,Lrrtm4,LRRTM4,leucine rich repeat transmembrane neuronal 4,Extracellular Space,other
+2.855,upstream,Mir218-1,mir-218,microRNA 218-2,Cytoplasm,microRNA
+2.855,upstream,Mrpl17,Mrpl17,mitochondrial ribosomal protein L17,Cytoplasm,other
+2.855,inside,Nr5a2,NR5A2,nuclear receptor subfamily 5 group A member 2,Nucleus,ligand-dependent nuclear receptor
+2.855,downstream,Olfr1045,OR8J3,olfactory receptor family 8 subfamily J member 3,Plasma Membrane,G-protein coupled receptor
+2.855,upstream,Olfr331,OR2T4,olfactory receptor family 2 subfamily T member 4,Plasma Membrane,G-protein coupled receptor
+2.855,downstream,Otx2,Otx2,orthodenticle homeobox 2,Nucleus,transcription regulator
+2.855,downstream,Oxct2b,Oxct2a/Oxct2b,3-oxoacid CoA transferase 2A,Cytoplasm,enzyme
+2.855,upstream,Pbx1,PBX1,PBX homeobox 1,Nucleus,transcription regulator
+2.855,upstream,Phkg2,Phkg2,phosphorylase kinase catalytic subunit gamma 2,Cytoplasm,kinase
+2.855,upstream,Pwp1,PWP1,"PWP1 homolog, endonuclein",Nucleus,other
+2.855,upstream,Pwp1,PWP1,"PWP1 homolog, endonuclein",Nucleus,other
+2.855,downstream,Rbfox1,RBFOX1,"RNA binding protein, fox-1 homolog 1",Cytoplasm,other
+2.855,upstream,Rpl31-ps22,Rpl31-ps22,"ribosomal protein L31, pseudogene 22",Other,other
+2.855,upstream,Rxfp2,RXFP2,relaxin/insulin like family peptide receptor 2,Plasma Membrane,G-protein coupled receptor
+2.855,inside,Scfd2,SCFD2,sec1 family domain containing 2,Other,transporter
+2.855,upstream,Tacr1,TACR1,tachykinin receptor 1,Plasma Membrane,G-protein coupled receptor
+2.855,upstream,Tfap2a,TFAP2A,transcription factor AP-2 alpha,Nucleus,transcription regulator
+2.855,inside,Zfp169,ZNF169,zinc finger protein 169,Nucleus,transcription regulator
+2.855,downstream,Zfp352,Zfp352,zinc finger protein 352,Other,other
+2.797,inside,Sulf1,SULF1,sulfatase 1,Cytoplasm,enzyme
+2.781,inside,Adam18,ADAM18,ADAM metallopeptidase domain 18,Plasma Membrane,peptidase
+2.781,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+2.756,inside,C1ra,C1R,complement C1r,Extracellular Space,peptidase
+2.756,inside,Cdkl4,CDKL4,cyclin dependent kinase like 4,Nucleus,kinase
+2.756,upstream,Cfhr2,Cfhr3,complement factor H-related 3,Other,other
+2.756,inside,Fam175b,ABRAXAS2,"abraxas 2, BRISC complex subunit",Nucleus,other
+2.756,downstream,Gm14632,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.756,upstream,Gm2030,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.756,inside,Gm9119,Gm9119,predicted pseudogene 9119,Other,other
+2.756,inside,Gpr137b,Gpr137b,G protein-coupled receptor 137B,Other,other
+2.756,downstream,Kif22-ps,Kif22-ps,"kinesin family member 22, pseudogene",Other,other
+2.756,upstream,Magi2,MAGI2,"membrane associated guanylate kinase, WW and PDZ domain containing 2",Plasma Membrane,kinase
+2.756,upstream,Mup16,Mup1 (includes others),major urinary protein 1,Extracellular Space,other
+2.756,upstream,Mup-ps14,Mup-ps14,"major urinary protein, pseudogene 14",Other,other
+2.756,downstream,Prelid2,PRELID2,PRELI domain containing 2,Cytoplasm,other
+2.756,upstream,Stard8,STARD8,StAR related lipid transfer domain containing 8,Cytoplasm,other
+2.756,inside,Unc80,UNC80,"unc-80 homolog, NALCN activator",Plasma Membrane,enzyme
+2.703,downstream,1700102P08Rik,C3orf62,chromosome 3 open reading frame 62,Other,other
+2.703,upstream,4930426D05Rik,4930426D05Rik,RIKEN cDNA 4930426D05 gene,Other,other
+2.703,downstream,Acot10,ACOT9,acyl-CoA thioesterase 9,Cytoplasm,enzyme
+2.703,inside,Ankib1,ANKIB1,ankyrin repeat and IBR domain containing 1,Nucleus,transcription regulator
+2.703,inside,Anxa5,ANXA5,annexin A5,Plasma Membrane,transporter
+2.703,downstream,Asb17,ASB17,ankyrin repeat and SOCS box containing 17,Other,other
+2.703,upstream,Ccdc69,Ccdc69,coiled-coil domain containing 69,Other,other
+2.703,inside,Cntnap4,CNTNAP4,contactin associated protein like 4,Plasma Membrane,other
+2.703,inside,Col11a2,COL11A2,collagen type XI alpha 2 chain,Extracellular Space,other
+2.703,upstream,Colec12,COLEC12,collectin subfamily member 12,Plasma Membrane,transmembrane receptor
+2.703,upstream,Cox7c,Cox7c,cytochrome c oxidase subunit VIIc,Cytoplasm,other
+2.703,upstream,Cstf2t,CSTF2T,cleavage stimulation factor subunit 2 tau variant,Nucleus,other
+2.703,upstream,Ctnna1,CTNNA1,catenin alpha 1,Plasma Membrane,other
+2.703,upstream,Depdc1a,DEPDC1,DEP domain containing 1,Nucleus,transcription regulator
+2.703,downstream,Dhrs7,DHRS7,dehydrogenase/reductase 7,Other,enzyme
+2.703,inside,Dpyd,DPYD,dihydropyrimidine dehydrogenase,Cytoplasm,enzyme
+2.703,upstream,Eda,Eda,ectodysplasin-A,Other,other
+2.703,includeFeature,Gm10169,Gm10169,"macrophage migration inhibitory factor, pseudogene 4",Other,other
+2.703,upstream,Gm1110,Gm1110,predicted gene 1110,Other,other
+2.703,downstream,Gm11260,Gm11260,"zinc finger, CCHC domain containing 9 pseudogene",Other,other
+2.703,upstream,Gm12636,Gm12636,ubiquitin specific peptidase 46 pseudogene,Other,other
+2.703,upstream,Gm13170,Gm13170,high mobility group box 2 pseudogene,Other,other
+2.703,upstream,Gm13326,Gm13326,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+2.703,downstream,Gm14082,Gm14082,ribosomal protein L7A pseudogene,Other,other
+2.703,upstream,Gm14704,Gm14704,"melanoma antigen, family A, 4 pseudogene",Other,other
+2.703,upstream,Gm14726,Gm14726,"melanoma antigen, family A, 4 pseudogene",Other,other
+2.703,downstream,Gm14819,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.703,downstream,Gm15390,Gm15390,predicted gene 15390,Other,other
+2.703,upstream,Gm15772,Gm15772,ribosomal protein L26 pseudogene,Other,other
+2.703,inside,Gm3448,TCTE3,t-complex-associated-testis-expressed 3,Extracellular Space,other
+2.703,downstream,Gm5420,Gm5420,predicted gene 5420,Other,other
+2.703,upstream,Gm5815,Gm5815,glucocorticoid induced transcript 1 pseudogene,Other,other
+2.703,upstream,Gm6086,GAL3ST2,galactose-3-O-sulfotransferase 2,Cytoplasm,enzyme
+2.703,upstream,Grem1,GREM1,"gremlin 1, DAN family BMP antagonist",Extracellular Space,other
+2.703,downstream,Hs1bp3,HS1BP3,HCLS1 binding protein 3,Other,other
+2.703,downstream,Ids,IDS,iduronate 2-sulfatase,Cytoplasm,enzyme
+2.703,downstream,Ids,IDS,iduronate 2-sulfatase,Cytoplasm,enzyme
+2.703,upstream,Igkv8-26,Igkv8-26,immunoglobulin kappa variable 8-26,Other,other
+2.703,inside,Kif24,KIF24,kinesin family member 24,Cytoplasm,other
+2.703,upstream,Ky,KY,kyphoscoliosis peptidase,Cytoplasm,other
+2.703,downstream,Mme,MME,membrane metalloendopeptidase,Plasma Membrane,peptidase
+2.703,inside,Myom2,MYOM2,myomesin 2,Cytoplasm,other
+2.703,upstream,Naip6,Naip1 (includes others),"NLR family, apoptosis inhibitory protein 1",Cytoplasm,other
+2.703,upstream,Neu4,NEU4,neuraminidase 4,Cytoplasm,enzyme
+2.703,downstream,Nr0b1,NR0B1,nuclear receptor subfamily 0 group B member 1,Nucleus,ligand-dependent nuclear receptor
+2.703,inside,Nubpl,NUBPL,nucleotide binding protein like,Cytoplasm,other
+2.703,upstream,Olfr161,Olfr161,olfactory receptor 161,Plasma Membrane,G-protein coupled receptor
+2.703,upstream,Pank3,PANK3,pantothenate kinase 3,Cytoplasm,kinase
+2.703,inside,Pccb,PCCB,propionyl-CoA carboxylase beta subunit,Cytoplasm,enzyme
+2.703,upstream,Ppan,PPAN,peter pan homolog (Drosophila),Nucleus,other
+2.703,inside,Ppp6r1,PPP6R1,protein phosphatase 6 regulatory subunit 1,Cytoplasm,other
+2.703,downstream,Prl2c2,Prl2c2 (includes others),"prolactin family 2, subfamily c, member 2",Extracellular Space,growth factor
+2.703,downstream,Prl2c3,Prl2c2 (includes others),"prolactin family 2, subfamily c, member 2",Extracellular Space,growth factor
+2.703,inside,Ptpn13,PTPN13,"protein tyrosine phosphatase, non-receptor type 13",Cytoplasm,phosphatase
+2.703,upstream,Reln,RELN,reelin,Extracellular Space,peptidase
+2.703,downstream,Rpl27a-ps2,Rpl27a-ps2,"ribosomal protein L27A, pseudogene 2",Other,other
+2.703,upstream,Sfmbt1,SFMBT1,Scm-like with four mbt domains 1,Nucleus,transcription regulator
+2.703,upstream,Slc13a1,SLC13A1,solute carrier family 13 member 1,Plasma Membrane,transporter
+2.703,upstream,Slc22a27,SLC22A25,solute carrier family 22 member 25,Other,other
+2.703,upstream,Slc35f4,SLC35F4,solute carrier family 35 member F4,Other,other
+2.703,downstream,Slfn1,Slfn1,schlafen 1,Nucleus,enzyme
+2.703,downstream,Slxl1,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.703,downstream,Snord73a,Snord73a,"small nucleolar RNA, C/D box U73A",Other,other
+2.703,inside,Sorcs3,SORCS3,sortilin related VPS10 domain containing receptor 3,Nucleus,transporter
+2.703,upstream,St3gal4,ST3GAL4,"ST3 beta-galactoside alpha-2,3-sialyltransferase 4",Cytoplasm,enzyme
+2.703,upstream,Tbc1d20,TBC1D20,TBC1 domain family member 20,Nucleus,other
+2.703,inside,Tcte3,Tcte3,t-complex-associated testis expressed 3,Extracellular Space,other
+2.703,upstream,Themis,THEMIS,thymocyte selection associated,Cytoplasm,other
+2.703,inside,Tlr8,TLR8,toll like receptor 8,Plasma Membrane,transmembrane receptor
+2.703,upstream,Tmem132c,TMEM132C,transmembrane protein 132C,Other,other
+2.703,inside,Tspyl3,Tspyl3,TSPY-like 3,Other,other
+2.703,downstream,Ttll7,TTLL7,tubulin tyrosine ligase like 7,Cytoplasm,enzyme
+2.703,inside,Vnn3,Vnn3,vanin 3,Cytoplasm,enzyme
+2.703,upstream,Vprbp,DCAF1,DDB1 and CUL4 associated factor 1,Nucleus,kinase
+2.703,upstream,Vwc2l,Vwc2l,von Willebrand factor C domain-containing protein 2-like,Extracellular Space,other
+2.703,upstream,Zfp600,ZNF616,zinc finger protein 616,Nucleus,other
+2.671,inside,Ankar,ANKAR,ankyrin and armadillo repeat containing,Nucleus,transcription regulator
+2.649,downstream,4933427I04Rik,4933427I04Rik,Riken cDNA 4933427I04 gene,Other,other
+2.649,inside,Agfg1,AGFG1,ArfGAP with FG repeats 1,Nucleus,other
+2.649,downstream,Dab2,DAB2,"DAB2, clathrin adaptor protein",Plasma Membrane,other
+2.649,upstream,Dmrta1,DMRTA1,DMRT like family A1,Extracellular Space,other
+2.649,overlapEnd,Fam89a,FAM89A,family with sequence similarity 89 member A,Other,other
+2.649,inside,Fshr,FSHR,follicle stimulating hormone receptor,Plasma Membrane,G-protein coupled receptor
+2.649,downstream,Ggh,GGH,gamma-glutamyl hydrolase,Cytoplasm,peptidase
+2.649,upstream,Gm2810,Gm2810,"corepressor interacting with RBPJ, 1 pseudogene",Other,other
+2.649,inside,Gm3259,C87414 (includes others),expressed sequence C87414,Other,other
+2.649,upstream,Gm8840,Gm8840,predicted gene 8840,Other,other
+2.649,upstream,Hdhd2,HDHD2,haloacid dehalogenase like hydrolase domain containing 2,Cytoplasm,other
+2.649,upstream,Hook1,HOOK1,hook microtubule tethering protein 1,Cytoplasm,other
+2.649,upstream,Hspa9,HSPA9,heat shock protein family A (Hsp70) member 9,Cytoplasm,other
+2.649,inside,Kynu,KYNU,kynureninase,Cytoplasm,enzyme
+2.649,upstream,Lig3,LIG3,DNA ligase 3,Nucleus,enzyme
+2.649,inside,Nipa2,NIPA2,non imprinted in Prader-Willi/Angelman syndrome 2,Cytoplasm,other
+2.649,upstream,Olfr1333,Olfr1331/Olfr1333,olfactory receptor 1331,Plasma Membrane,G-protein coupled receptor
+2.649,downstream,Papd7,PAPD7,"poly(A) RNA polymerase D7, non-canonical",Nucleus,enzyme
+2.649,downstream,Ppp4r2,PPP4R2,protein phosphatase 4 regulatory subunit 2,Cytoplasm,other
+2.649,upstream,Sephs2,SEPHS2,selenophosphate synthetase 2,Other,enzyme
+2.621,upstream,AV320801,Pramel3 (includes others),preferentially expressed antigen in melanoma-like 3,Other,other
+2.621,upstream,Gm15023,Pramel3 (includes others),preferentially expressed antigen in melanoma-like 3,Other,other
+2.621,downstream,Gm15730,Gm15730,predicted gene 15730,Other,other
+2.604,upstream,Syt5,SYT5,synaptotagmin 5,Cytoplasm,transporter
+2.604,inside,Wdfy1,Wdfy1,WD repeat and FYVE domain containing 1,Cytoplasm,other
+2.604,inside,Wdfy1,Wdfy1,WD repeat and FYVE domain containing 1,Cytoplasm,other
+2.578,upstream,Tnfrsf10b,TNFRSF10A,TNF receptor superfamily member 10a,Plasma Membrane,transmembrane receptor
+2.563,upstream,Tmem106c,TMEM106C,transmembrane protein 106C,Other,other
+2.534,downstream,2510039O18Rik,KIAA2013,KIAA2013,Other,other
+2.534,upstream,3830406C13Rik,C3orf14,chromosome 3 open reading frame 14,Other,other
+2.534,upstream,4933405O20Rik,4933405O20Rik,RIKEN cDNA 4933405O20 gene,Cytoplasm,other
+2.534,upstream,4933412E24Rik,4933412E24Rik,RIKEN cDNA 4933412E24 gene,Other,other
+2.534,upstream,Adam26b,Adam26a/Adam26b,a disintegrin and metallopeptidase domain 26A (testase 3),Other,peptidase
+2.534,upstream,Adcyap1,ADCYAP1,adenylate cyclase activating polypeptide 1,Extracellular Space,other
+2.534,upstream,Arhgap24,ARHGAP24,Rho GTPase activating protein 24,Cytoplasm,other
+2.534,downstream,Bmp10,BMP10,bone morphogenetic protein 10,Extracellular Space,growth factor
+2.534,inside,Cyp2c66,CYP2C9,cytochrome P450 family 2 subfamily C member 9,Cytoplasm,enzyme
+2.534,downstream,Cyp4f15,CYP4F8,cytochrome P450 family 4 subfamily F member 8,Cytoplasm,enzyme
+2.534,upstream,Dcn,DCN,decorin,Extracellular Space,other
+2.534,upstream,Dgkb,DGKB,diacylglycerol kinase beta,Cytoplasm,kinase
+2.534,upstream,Dsg1b,DSG1,desmoglein 1,Plasma Membrane,other
+2.534,upstream,Far2,FAR2,fatty acyl-CoA reductase 2,Cytoplasm,enzyme
+2.534,inside,Fhit,FHIT,fragile histidine triad,Cytoplasm,enzyme
+2.534,upstream,Foxq1,FOXQ1,forkhead box Q1,Nucleus,transcription regulator
+2.534,downstream,Gm10118,Gm10118,predicted gene 10118,Other,other
+2.534,upstream,Gm10145,Gm10145,predicted gene 10145,Other,other
+2.534,downstream,Gm12428,Gm12428,14-3-3 protein eta pseudogene,Other,other
+2.534,upstream,Gm13050,Gm13050,eukaryotic translation elongation factor pseudogene,Other,other
+2.534,downstream,Gm13904,Gm13904,"solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 3 pseudogene",Other,other
+2.534,upstream,Gm15210,IMPDH2,inosine monophosphate dehydrogenase 2,Cytoplasm,enzyme
+2.534,downstream,Gm15319,4930467E23Rik (includes others),RIKEN cDNA 4930467E23 gene,Other,other
+2.534,downstream,Gm5742,Gm5742,thymidine kinase 1 pseudogene,Other,other
+2.534,downstream,Gm5742,Gm5742,thymidine kinase 1 pseudogene,Other,other
+2.534,inside,Gm7803,Gm7803,heterogeneous nuclear ribonucleoprotein F pseudogene,Other,other
+2.534,upstream,Gm829,Gm829,predicted gene 829,Other,other
+2.534,overlapStart,Gm9833,Gm9833,"myelin basic protein expression factor 2, repressor pseudogene",Other,other
+2.534,upstream,Gpr101,GPR101,G protein-coupled receptor 101,Plasma Membrane,G-protein coupled receptor
+2.534,inside,Gpr141,Gpr141,G protein-coupled receptor 141,Other,other
+2.534,upstream,Hsd17b7,HSD17B7,hydroxysteroid 17-beta dehydrogenase 7,Cytoplasm,enzyme
+2.534,upstream,Ifi204,IFI16,interferon gamma inducible protein 16,Nucleus,transcription regulator
+2.534,inside,Mcrs1,MCRS1,microspherule protein 1,Nucleus,other
+2.534,inside,Mug2,Mug1 (includes others),murinoglobulin 1,Extracellular Space,transporter
+2.534,upstream,Nkain3,NKAIN3,sodium/potassium transporting ATPase interacting 3,Other,other
+2.534,inside,Pcnp,PCNP,PEST proteolytic signal containing nuclear protein,Nucleus,other
+2.534,upstream,Penk,PENK,proenkephalin,Extracellular Space,other
+2.534,upstream,Ralbp1,RALBP1,ralA binding protein 1,Cytoplasm,enzyme
+2.534,inside,Rit2,RIT2,Ras like without CAAX 2,Plasma Membrane,enzyme
+2.534,upstream,Rpe,RPE,ribulose-5-phosphate-3-epimerase,Cytoplasm,enzyme
+2.534,upstream,Slc35f4,SLC35F4,solute carrier family 35 member F4,Other,other
+2.534,upstream,Stard4,STARD4,StAR related lipid transfer domain containing 4,Cytoplasm,transporter
+2.534,upstream,Synpo2,SYNPO2,synaptopodin 2,Cytoplasm,other
+2.534,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+2.534,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+2.534,downstream,Utp14b,UTP14C,"UTP14, small subunit processome component homolog C (S. cerevisiae)",Nucleus,other
+2.534,inside,Wdr5,WDR5,WD repeat domain 5,Nucleus,enzyme
+2.534,upstream,Zfp869,ZNF91,zinc finger protein 91,Nucleus,transcription regulator
+2.472,upstream,1700080E11Rik,1700080E11Rik,RIKEN cDNA 1700080E11 gene,Other,other
+2.472,downstream,Kif22-ps,Kif22-ps,"kinesin family member 22, pseudogene",Other,other
+2.46,upstream,Gm3757,SPIN2A/SPIN2B,spindlin family member 2A,Other,other
+2.46,upstream,Vmn2r34,Vmn2r32 (includes others),"vomeronasal 2, receptor 32",Plasma Membrane,G-protein coupled receptor
+2.44,upstream,BC002059,BC002059,cDNA sequence BC002059,Other,other
+2.44,upstream,Clec2g,Clec2g,"C-type lectin domain family 2, member G",Other,other
+2.44,upstream,Cnbd1,CNBD1,cyclic nucleotide binding domain containing 1,Other,other
+2.44,downstream,Gm13333,Gm13333,NSA2 ribosome biogenesis homolog pseudogene,Other,other
+2.44,inside,Gm14509,Gm14509,zinc finger protein 161 pseudogene,Other,other
+2.44,upstream,Ide,IDE,insulin degrading enzyme,Extracellular Space,peptidase
+2.44,downstream,Mdfic,MDFIC,MyoD family inhibitor domain containing,Nucleus,other
+2.44,upstream,Mir124a-3,mir-124,microRNA 124-1,Cytoplasm,microRNA
+2.44,upstream,Smpd1,SMPD1,sphingomyelin phosphodiesterase 1,Cytoplasm,enzyme
+2.44,upstream,Tomm20l,TOMM20L,translocase of outer mitochondrial membrane 20 like,Other,other
+2.44,upstream,Zfp933,Zfp933,zinc finger protein 933,Other,other
+2.415,upstream,Igfbp5,IGFBP5,insulin like growth factor binding protein 5,Extracellular Space,other
+2.408,upstream,6530409C15Rik,6530409C15Rik,RIKEN cDNA 6530409C15 gene,Other,other
+2.408,upstream,Aff3,AFF3,AF4/FMR2 family member 3,Nucleus,transcription regulator
+2.408,downstream,Akt2-ps,Akt2-ps,"thymoma viral proto-oncogene 2, pseudogene",Other,other
+2.408,upstream,Apeh,APEH,acylaminoacyl-peptide hydrolase,Cytoplasm,peptidase
+2.408,upstream,Arl13b,ARL13B,ADP ribosylation factor like GTPase 13B,Extracellular Space,other
+2.408,inside,Atp6v1e1,ATP6V1E1,ATPase H+ transporting V1 subunit E1,Cytoplasm,transporter
+2.408,upstream,Cbs,CBS/CBSL,cystathionine-beta-synthase,Cytoplasm,enzyme
+2.408,downstream,Cdh26,CDH26,cadherin 26,Plasma Membrane,other
+2.408,upstream,Chmp4b,Chmp4b,charged multivesicular body protein 4B,Cytoplasm,other
+2.408,inside,Crim1,CRIM1,cysteine rich transmembrane BMP regulator 1,Extracellular Space,kinase
+2.408,downstream,Dsel,DSEL,dermatan sulfate epimerase-like,Extracellular Space,enzyme
+2.408,downstream,F2rl3,F2RL3,F2R like thrombin/trypsin receptor 3,Plasma Membrane,G-protein coupled receptor
+2.408,downstream,Fndc1,FNDC1,fibronectin type III domain containing 1,Plasma Membrane,other
+2.408,inside,Gaa,GAA,"glucosidase alpha, acid",Cytoplasm,enzyme
+2.408,inside,Gdap2,GDAP2,ganglioside induced differentiation associated protein 2,Cytoplasm,other
+2.408,upstream,Gm10275,Gm10275,Rpl12 pseudogene,Other,other
+2.408,downstream,Gm10323,Gm10323,predicted gene 10323,Other,other
+2.408,downstream,Gm10488,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.408,upstream,Gm11743,Gm11743,CWC22 spliceosome-associated protein homolog pseudogene,Other,other
+2.408,downstream,Gm13882,Gm13882,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+2.408,upstream,Gm14334,Gm14334,"spindlin family, member 2 pseudogene",Other,other
+2.408,downstream,Gm15000,Gm15000,zinc finger protein 259 pseudogene,Other,other
+2.408,downstream,Gm2005,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.408,downstream,Gm7816,Gm7816,"DnaJ (Hsp40) homolog, subfamily A, member 1 pseudogene",Other,other
+2.408,downstream,Haus8,HAUS8,HAUS augmin like complex subunit 8,Cytoplasm,other
+2.408,downstream,Ier5,IER5,immediate early response 5,Other,other
+2.408,upstream,Lim2,LIM2,lens intrinsic membrane protein 2,Plasma Membrane,other
+2.408,downstream,Lyplal1,LYPLAL1,lysophospholipase like 1,Cytoplasm,enzyme
+2.408,inside,Maoa,MAOA,monoamine oxidase A,Cytoplasm,enzyme
+2.408,inside,Mpped1,MPPED1,metallophosphoesterase domain containing 1,Other,other
+2.408,upstream,Nrg3,NRG3,neuregulin 3,Extracellular Space,growth factor
+2.408,downstream,Odf2l,ODF2L,outer dense fiber of sperm tails 2 like,Cytoplasm,other
+2.408,downstream,Olfr1390,Olfr1390,olfactory receptor 1390,Plasma Membrane,G-protein coupled receptor
+2.408,upstream,Pcdh10,Pcdh10,protocadherin 10,Other,other
+2.408,inside,Pitpnm3,PITPNM3,PITPNM family member 3,Cytoplasm,transporter
+2.408,upstream,Prl3b1,Prl3b1,"prolactin family 3, subfamily b, member 1",Extracellular Space,growth factor
+2.408,upstream,Prokr1,PROKR1,prokineticin receptor 1,Plasma Membrane,G-protein coupled receptor
+2.408,upstream,Rasa1,RASA1,RAS p21 protein activator 1,Cytoplasm,transporter
+2.408,upstream,Spred2,SPRED2,sprouty related EVH1 domain containing 2,Extracellular Space,cytokine
+2.408,inside,Syde2,SYDE2,synapse defective Rho GTPase homolog 2,Cytoplasm,other
+2.408,inside,Sytl3,SYTL3,synaptotagmin like 3,Cytoplasm,other
+2.408,upstream,Tac1,TAC1,tachykinin precursor 1,Extracellular Space,other
+2.408,upstream,Tacr3,TACR3,tachykinin receptor 3,Plasma Membrane,G-protein coupled receptor
+2.408,downstream,Tdrd3,TDRD3,tudor domain containing 3,Nucleus,transcription regulator
+2.408,downstream,Tle4,TLE4,transducin like enhancer of split 4,Nucleus,transcription regulator
+2.408,inside,Ube2cbp,UBE3D,ubiquitin protein ligase E3D,Other,other
+2.408,inside,Zfp60,Zfp60,zinc finger protein 60,Nucleus,other
+2.382,inside,Cenpo,CENPO,centromere protein O,Nucleus,other
+2.382,upstream,Gm12475,Gm12475,"polymerase (DNA-directed), delta 3, accessory subunit pseudogene",Other,other
+2.382,upstream,Gm5621,Gm5621,predicted gene 5621,Other,other
+2.382,upstream,Nrsn1,NRSN1,neurensin 1,Plasma Membrane,other
+2.382,upstream,Tomm20l,TOMM20L,translocase of outer mitochondrial membrane 20 like,Other,other
+2.341,upstream,Abra,ABRA,actin binding Rho activating protein,Cytoplasm,other
+2.341,upstream,Arhgef26,ARHGEF26,Rho guanine nucleotide exchange factor 26,Plasma Membrane,other
+2.341,downstream,Ccdc68,Ccdc68,coiled-coil domain containing 68,Other,other
+2.341,inside,Dpf3,Dpf3,double PHD fingers 3,Nucleus,other
+2.341,upstream,Fundc2,Fundc2,FUN14 domain containing 2,Cytoplasm,other
+2.341,upstream,Gm10340,Gm10408 (includes others),predicted gene 3115,Other,other
+2.341,downstream,Gm3404,1700001J03Rik (includes others),RIKEN cDNA 1700001J03 gene,Other,other
+2.341,downstream,Gm5742,Gm5742,thymidine kinase 1 pseudogene,Other,other
+2.341,upstream,Gm9788,Gm9788,developmental pluripotency associated 2 pseudogene,Other,other
+2.341,upstream,Gm9788,Gm9788,developmental pluripotency associated 2 pseudogene,Other,other
+2.341,upstream,Hapln1,HAPLN1,hyaluronan and proteoglycan link protein 1,Extracellular Space,other
+2.341,upstream,Hapln1,HAPLN1,hyaluronan and proteoglycan link protein 1,Extracellular Space,other
+2.341,inside,Kcnd2,KCND2,potassium voltage-gated channel subfamily D member 2,Plasma Membrane,ion channel
+2.341,inside,Mep1a,MEP1A,meprin A subunit alpha,Plasma Membrane,peptidase
+2.341,upstream,Ncam2,NCAM2,neural cell adhesion molecule 2,Plasma Membrane,other
+2.341,upstream,Oog4,Oog4,oogenesin 4,Other,other
+2.341,upstream,Ppp1r9a,PPP1R9A,protein phosphatase 1 regulatory subunit 9A,Plasma Membrane,other
+2.341,upstream,Rpe,RPE,ribulose-5-phosphate-3-epimerase,Cytoplasm,enzyme
+2.341,inside,Stk31,STK31,serine/threonine kinase 31,Cytoplasm,kinase
+2.341,inside,Stx11,STX11,syntaxin 11,Plasma Membrane,transporter
+2.341,downstream,Tas2r103,Tas2r103,"taste receptor, type 2, member 103",Other,other
+2.341,downstream,Tas2r117,Tas2r117,"taste receptor, type 2, member 117",Other,other
+2.311,upstream,Gm11809,Gm11809,PRP3 pre-mRNA processing factor 3 homolog pseudogene,Other,other
+2.311,downstream,Gm13233,Gm13233,predicted gene 13233,Other,other
+2.299,inside,2410141K09Rik,2410141K09Rik,RIKEN cDNA 2410141K09 gene,Other,other
+2.299,upstream,Ednrb,EDNRB,endothelin receptor type B,Plasma Membrane,G-protein coupled receptor
+2.299,downstream,Has2,HAS2,hyaluronan synthase 2,Plasma Membrane,enzyme
+2.299,upstream,Igbp1,IGBP1,immunoglobulin binding protein 1,Cytoplasm,phosphatase
+2.299,overlapStart,Rps6-ps1,Rps6-ps1,"ribosomal protein S6, pseudogene 1",Other,other
+2.284,upstream,Gm10634,4921528I07Rik (includes others),predicted gene 10634,Other,other
+2.283,upstream,Fn1,FN1,fibronectin 1,Extracellular Space,enzyme
+2.271,upstream,1600002H07Rik,C16orf59,chromosome 16 open reading frame 59,Other,other
+2.271,downstream,3830408C21Rik,3830408C21Rik,RIKEN cDNA 3830408C21 gene,Other,other
+2.271,upstream,4921530L21Rik,4921530L21Rik,RIKEN cDNA 4921530L21 gene,Other,other
+2.271,upstream,4921530L21Rik,4921530L21Rik,RIKEN cDNA 4921530L21 gene,Other,other
+2.271,upstream,5730508B09Rik,C4orf32,chromosome 4 open reading frame 32,Other,other
+2.271,inside,9230109A22Rik,9230109A22Rik,RIKEN cDNA 9230109A22 gene,Other,other
+2.271,upstream,A230050P20Rik,C19orf66,chromosome 19 open reading frame 66,Other,other
+2.271,inside,Actr3b,ACTR3B,ARP3 actin related protein 3 homolog B,Cytoplasm,other
+2.271,upstream,Adam2,ADAM2,ADAM metallopeptidase domain 2,Plasma Membrane,peptidase
+2.271,inside,Adk,ADK,adenosine kinase,Nucleus,kinase
+2.271,upstream,Amy2a5,AMY2B,"amylase, alpha 2B (pancreatic)",Extracellular Space,enzyme
+2.271,inside,Ankrd28,ANKRD28,ankyrin repeat domain 28,Cytoplasm,other
+2.271,upstream,Apc,APC,"APC, WNT signaling pathway regulator",Nucleus,enzyme
+2.271,upstream,Atp8a1,ATP8A1,ATPase phospholipid transporting 8A1,Cytoplasm,transporter
+2.271,upstream,Atxn2l,ATXN2L,ataxin 2 like,Nucleus,other
+2.271,inside,Baiap2l1,BAIAP2L1,BAI1 associated protein 2 like 1,Cytoplasm,other
+2.271,downstream,Bloc1s3,BLOC1S3,biogenesis of lysosomal organelles complex 1 subunit 3,Cytoplasm,transporter
+2.271,downstream,Casp12,Casp12,caspase 12,Cytoplasm,peptidase
+2.271,upstream,Chrm3,CHRM3,cholinergic receptor muscarinic 3,Plasma Membrane,G-protein coupled receptor
+2.271,upstream,Cntn4,CNTN4,contactin 4,Plasma Membrane,enzyme
+2.271,inside,Cse1l,CSE1L,chromosome segregation 1 like,Nucleus,transporter
+2.271,upstream,Ddx3x,Ddx3x,"DEAD-box helicase 3, X-linked",Cytoplasm,enzyme
+2.271,downstream,Dpcd,Dpcd,deleted in primary ciliary dyskinesia,Nucleus,other
+2.271,downstream,Dtymk,DTYMK,deoxythymidylate kinase,Cytoplasm,kinase
+2.271,inside,Epc2,EPC2,enhancer of polycomb homolog 2,Other,other
+2.271,inside,Erbb4,ERBB4,erb-b2 receptor tyrosine kinase 4,Plasma Membrane,kinase
+2.271,inside,Fam163a,FAM163A,family with sequence similarity 163 member A,Other,other
+2.271,downstream,Fam49a,FAM49A,family with sequence similarity 49 member A,Other,other
+2.271,upstream,Fat4,Fat4,FAT atypical cadherin 4,Cytoplasm,other
+2.271,upstream,Fat4,Fat4,FAT atypical cadherin 4,Cytoplasm,other
+2.271,downstream,Fkbp10,FKBP10,FK506 binding protein 10,Cytoplasm,enzyme
+2.271,upstream,Gbp10,GBP6,guanylate binding protein family member 6,Cytoplasm,enzyme
+2.271,upstream,Gm10167,Gm10167,predicted pseudogene 10167,Other,other
+2.271,upstream,Gm10293,Gm10293,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+2.271,upstream,Gm10295,Gm10295,predicted gene 10295,Other,other
+2.271,downstream,Gm10408,Gm10408 (includes others),predicted gene 3115,Other,other
+2.271,upstream,Gm10486,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.271,upstream,Gm10488,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.271,upstream,Gm11227,Gm11227,predicted gene 11227,Other,other
+2.271,downstream,Gm11783,Gm11783,predicted gene 11783,Other,other
+2.271,inside,Gm14548,LILRB3,leukocyte immunoglobulin like receptor B3,Plasma Membrane,transmembrane receptor
+2.271,upstream,Gm14632,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.271,upstream,Gm15080,Ott (includes others),ovary testis transcribed,Other,other
+2.271,upstream,Gm2223,Gm2223,predicted pseudogene 2223,Other,other
+2.271,upstream,Gm2892,Gm2892/LOC668961,spindlin 2 family member,Other,other
+2.271,upstream,Gm3676,Gm3676/Gm8138,predicted gene 8138,Other,other
+2.271,upstream,Gm4822,Gm4822,U1 small nuclear ribonucleoprotein 1C pseudogene,Other,other
+2.271,upstream,Gm5160,Gm5160,peptidylprolyl isomerase A pseudogene chr18_148.1,Other,other
+2.271,downstream,Gm649,Gm649,melanoma antigen family A pseudogene,Other,other
+2.271,upstream,Gm6587,Gm6587,Hmgb1 pseudogene,Other,other
+2.271,upstream,Gm8822,Gm8822,ARP3 actin-related protein 3 homolog pseudogene,Other,other
+2.271,upstream,Gm9427,Gm9427,"spindlin family, member 2 pseudogene",Other,other
+2.271,upstream,Gnai1,GNAI1,G protein subunit alpha i1,Plasma Membrane,enzyme
+2.271,inside,H2-Q5,H2-Q5,"histocompatibility 2, Q region locus 5",Other,other
+2.271,inside,Hace1,HACE1,HECT domain and ankyrin repeat containing E3 ubiquitin protein ligase 1,Cytoplasm,enzyme
+2.271,downstream,Ighv15-2,Ighv15-2,immunoglobulin heavy variable V15-2,Other,other
+2.271,upstream,Il23r,IL23R,interleukin 23 receptor,Plasma Membrane,transmembrane receptor
+2.271,inside,Kcnk10,KCNK10,potassium two pore domain channel subfamily K member 10,Plasma Membrane,ion channel
+2.271,inside,Kng2,Kng1/Kng2,kininogen 2,Extracellular Space,other
+2.271,upstream,Lyrm2,LYRM2,LYR motif containing 2,Cytoplasm,other
+2.271,upstream,Mpp7,MPP7,membrane palmitoylated protein 7,Plasma Membrane,other
+2.271,inside,Mtdh,MTDH,metadherin,Cytoplasm,transcription regulator
+2.271,downstream,Nme2,NME2,NME/NM23 nucleoside diphosphate kinase 2,Nucleus,kinase
+2.271,downstream,Nov,NOV,nephroblastoma overexpressed,Extracellular Space,growth factor
+2.271,inside,Nrp2,NRP2,neuropilin 2,Plasma Membrane,kinase
+2.271,downstream,Olfm1,OLFM1,olfactomedin 1,Cytoplasm,other
+2.271,downstream,Olfr248,Olfr248,olfactory receptor 248,Plasma Membrane,G-protein coupled receptor
+2.271,downstream,Olfr566,Olfr566 (includes others),olfactory receptor 566,Plasma Membrane,G-protein coupled receptor
+2.271,downstream,Pcdh7,PCDH7,protocadherin 7,Plasma Membrane,other
+2.271,downstream,Pdha2,Pdha2,pyruvate dehydrogenase E1 alpha 2,Cytoplasm,enzyme
+2.271,upstream,Ppp1r12a,Ppp1r12a,"protein phosphatase 1, regulatory subunit 12A",Cytoplasm,phosphatase
+2.271,upstream,Pus1,PUS1,pseudouridylate synthase 1,Nucleus,enzyme
+2.271,upstream,Raet1d,Raet1d,retinoic acid early transcript delta,Plasma Membrane,other
+2.271,downstream,Rgs18,RGS18,regulator of G protein signaling 18,Cytoplasm,other
+2.271,upstream,Rps15a-ps1,Rps15a-ps1,"ribosomal protein S15A, pseudogene 1",Other,other
+2.271,inside,Rsph3b,RSPH3,radial spoke 3 homolog,Other,other
+2.271,upstream,Slc38a1,SLC38A1,solute carrier family 38 member 1,Plasma Membrane,transporter
+2.271,upstream,Spaca4,SPACA4,sperm acrosome associated 4,Other,other
+2.271,inside,Srp54b,SRP54,signal recognition particle 54,Cytoplasm,other
+2.271,downstream,Srp54c,Srp54c,signal recognition particle 54C,Other,other
+2.271,inside,Srsf10,Srsf10,serine and arginine rich splicing factor 10,Nucleus,other
+2.271,inside,Thsd7b,THSD7B,thrombospondin type 1 domain containing 7B,Other,other
+2.271,upstream,Tmem181b-ps,Tmem181b-ps,"transmembrane protein 181B, pseudogene",Other,other
+2.271,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+2.271,upstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+2.271,inside,Traf3ip2,TRAF3IP2,TRAF3 interacting protein 2,Cytoplasm,other
+2.271,upstream,Trhde,TRHDE,thyrotropin releasing hormone degrading enzyme,Plasma Membrane,peptidase
+2.271,downstream,Trpm6,TRPM6,transient receptor potential cation channel subfamily M member 6,Plasma Membrane,kinase
+2.271,inside,Vmn2r51,Vmn2r32 (includes others),"vomeronasal 2, receptor 32",Plasma Membrane,G-protein coupled receptor
+2.271,upstream,Vnn1,VNN1,vanin 1,Plasma Membrane,enzyme
+2.271,inside,Xrn2,XRN2,5'-3' exoribonuclease 2,Nucleus,enzyme
+2.271,downstream,Zbbx,ZBBX,zinc finger B-box domain containing,Other,other
+2.271,downstream,Zfp317,ZNF317,zinc finger protein 317,Nucleus,other
+2.271,inside,Zfp521,ZNF521,zinc finger protein 521,Nucleus,other
+2.271,overlapStart,Zfy1,Zfy1/Zfy2,"zinc finger protein 1, Y-linked",Nucleus,other
+2.25,inside,Bod1,BOD1,biorientation of chromosomes in cell division 1,Nucleus,other
+2.234,upstream,Akap8l,AKAP8L,A-kinase anchoring protein 8 like,Nucleus,other
+2.234,inside,Amd1,AMD1,adenosylmethionine decarboxylase 1,Cytoplasm,enzyme
+2.234,upstream,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+2.234,upstream,BC030870,BC030870,cDNA sequence BC030870,Other,other
+2.234,downstream,BC061212,A430089I19Rik (includes others),uncharacterized LOC545763,Other,other
+2.234,inside,Ccnb3,CCNB3,cyclin B3,Nucleus,other
+2.234,downstream,Cep120,CEP120,centrosomal protein 120,Cytoplasm,other
+2.234,inside,Cux1,CUX1,cut like homeobox 1,Nucleus,transcription regulator
+2.234,upstream,Dmrt3,DMRT3,doublesex and mab-3 related transcription factor 3,Nucleus,transcription regulator
+2.234,upstream,Esrrg,ESRRG,estrogen related receptor gamma,Nucleus,ligand-dependent nuclear receptor
+2.234,upstream,Gm13809,Gm13809,lactate dehydrogenase A pseudogene,Other,other
+2.234,upstream,Gm14819,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+2.234,downstream,Gm1840,Gm1840,glucose phosphate isomerase 1 pseudogene,Other,other
+2.234,downstream,Gm3259,C87414 (includes others),expressed sequence C87414,Other,other
+2.234,downstream,Kctd3,KCTD3,potassium channel tetramerization domain containing 3,Other,ion channel
+2.234,upstream,Magi2,MAGI2,"membrane associated guanylate kinase, WW and PDZ domain containing 2",Plasma Membrane,kinase
+2.234,upstream,Mir137,mir-137,microRNA 137,Cytoplasm,microRNA
+2.234,upstream,Nxnl2,NXNL2,nucleoredoxin-like 2,Other,transporter
+2.234,downstream,Olfr69,OR52A5,olfactory receptor family 52 subfamily A member 5,Plasma Membrane,G-protein coupled receptor
+2.234,downstream,Opa1,OPA1,"OPA1, mitochondrial dynamin like GTPase",Cytoplasm,enzyme
+2.234,downstream,Pcdhb1,PCDHB1,protocadherin beta 1,Plasma Membrane,other
+2.234,downstream,Pdha2,Pdha2,pyruvate dehydrogenase E1 alpha 2,Cytoplasm,enzyme
+2.234,inside,Ptch1,PTCH1,patched 1,Plasma Membrane,transmembrane receptor
+2.234,downstream,Rpl10-ps4,Rpl10-ps4,"ribosomal protein L10, pseudogene 4",Other,other
+2.234,upstream,Rps18-ps2,Rps18-ps2,"ribosomal protein S18, pseudogene 2",Other,other
+2.234,upstream,Snrpc,Snrpc,U1 small nuclear ribonucleoprotein C,Nucleus,other
+2.234,upstream,Zmat4,ZMAT4,zinc finger matrin-type 4,Nucleus,other
+2.212,inside,Cenpo,CENPO,centromere protein O,Nucleus,other
+2.212,upstream,Far2,FAR2,fatty acyl-CoA reductase 2,Cytoplasm,enzyme
+2.212,inside,Gsdmcl1,Gsdmcl1,gasdermin C-like 1,Other,other
+2.212,upstream,Nrsn1,NRSN1,neurensin 1,Plasma Membrane,other
+2.212,downstream,Rbpsuh-rs3,Rbpsuh-rs3,"recombining binding protein suppressor of hairless (Drosophila), related sequence 3",Other,other
+2.212,inside,Vps39,VPS39,"VPS39, HOPS complex subunit",Cytoplasm,transporter
+2.197,inside,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+2.197,upstream,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+2.186,upstream,Gm15741,Gm15741,TRAF3 interacting protein 2 pseudogene,Other,other
+2.177,downstream,Cbln4,CBLN4,cerebellin 4 precursor,Extracellular Space,other
+2.171,upstream,Podnl1,PODNL1,podocan like 1,Extracellular Space,other
+2.164,inside,Enpp2,ENPP2,ectonucleotide pyrophosphatase/phosphodiesterase 2,Plasma Membrane,enzyme
+2.128,inside,Zswim6,ZSWIM6,zinc finger SWIM-type containing 6,Extracellular Space,other
+2.119,upstream,5730507C01Rik,5730507C01Rik,RIKEN cDNA 5730507C01 gene,Other,other
+2.119,upstream,5830417I10Rik,5830417I10Rik,gon-4-like pseudogene,Other,other
+2.119,downstream,5930403N24Rik,5930403N24Rik,RIKEN cDNA 5930403N24 gene,Other,other
+2.119,inside,Aff3,AFF3,AF4/FMR2 family member 3,Nucleus,transcription regulator
+2.119,upstream,B3galnt2,B3GALNT2,"beta-1,3-N-acetylgalactosaminyltransferase 2",Cytoplasm,enzyme
+2.119,upstream,Bbs5,BBS5,Bardet-Biedl syndrome 5,Cytoplasm,other
+2.119,upstream,Bmp8a,BMP8A,bone morphogenetic protein 8a,Extracellular Space,cytokine
+2.119,downstream,Cdk20,CDK20,cyclin dependent kinase 20,Nucleus,kinase
+2.119,upstream,Chd9,CHD9,chromodomain helicase DNA binding protein 9,Cytoplasm,other
+2.119,upstream,Cpa6,Cpa6,carboxypeptidase A6,Other,other
+2.119,upstream,Crispld1,CRISPLD1,cysteine rich secretory protein LCCL domain containing 1,Cytoplasm,other
+2.119,upstream,Cylc1,Cylc1,"cylicin, basic protein of sperm head cytoskeleton 1",Cytoplasm,other
+2.119,downstream,D3Ertd751e,C4orf33,chromosome 4 open reading frame 33,Other,other
+2.119,upstream,Dpt,Dpt,dermatopontin,Extracellular Space,other
+2.119,inside,Dpysl3,DPYSL3,dihydropyrimidinase like 3,Cytoplasm,enzyme
+2.119,inside,Dsc3,DSC3,desmocollin 3,Plasma Membrane,other
+2.119,inside,Elp4,ELP4,elongator acetyltransferase complex subunit 4,Cytoplasm,other
+2.119,upstream,Emilin3,EMILIN3,elastin microfibril interfacer 3,Extracellular Space,other
+2.119,inside,Fgr,FGR,"FGR proto-oncogene, Src family tyrosine kinase",Nucleus,kinase
+2.119,upstream,Fsd1l,FSD1L,fibronectin type III and SPRY domain containing 1 like,Other,other
+2.119,downstream,Gc,GC,"GC, vitamin D binding protein",Extracellular Space,transporter
+2.119,downstream,Gm10330,Gm10330,predicted gene 10330,Other,other
+2.119,downstream,Gm11450,Gm11450,predicted gene 11450,Other,other
+2.119,upstream,Gm13675,Gm13675,mitochondrial ribosomal protein L18 pseudogene,Other,other
+2.119,upstream,Gm13866,Gm13866,predicted gene 13866,Other,other
+2.119,downstream,Gm15195,Gm15195,predicted gene 15195,Other,other
+2.119,upstream,Gm16294,Gm16294,predicted gene 16294,Other,other
+2.119,upstream,Gm16551,Gm16551,predicted gene 16551,Other,other
+2.119,inside,Gm3259,C87414 (includes others),expressed sequence C87414,Other,other
+2.119,upstream,Gm3676,Gm3676/Gm8138,predicted gene 8138,Other,other
+2.119,downstream,Gm6498,Gm6498,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+2.119,upstream,Gm9840,RBX1,ring-box 1,Cytoplasm,enzyme
+2.119,inside,Gon4l,GON4L,gon-4 like,Cytoplasm,transcription regulator
+2.119,inside,Gsk3b,GSK3B,glycogen synthase kinase 3 beta,Nucleus,kinase
+2.119,inside,Havcr2,HAVCR2,hepatitis A virus cellular receptor 2,Plasma Membrane,other
+2.119,upstream,Inhba,INHBA,inhibin beta A subunit,Extracellular Space,growth factor
+2.119,inside,Inpp5a,INPP5A,inositol polyphosphate-5-phosphatase A,Plasma Membrane,phosphatase
+2.119,inside,Kcnh1,KCNH1,potassium voltage-gated channel subfamily H member 1,Plasma Membrane,ion channel
+2.119,downstream,Lix1,LIX1,limb and CNS expressed 1,Other,other
+2.119,upstream,Megf9,MEGF9,multiple EGF like domains 9,Extracellular Space,other
+2.119,inside,Mnt,Mnt,MAX network transcriptional repressor,Nucleus,transcription regulator
+2.119,upstream,Muc13,MUC13,"mucin 13, cell surface associated",Extracellular Space,other
+2.119,downstream,Mup-ps14,Mup-ps14,"major urinary protein, pseudogene 14",Other,other
+2.119,downstream,Nom1,NOM1,nucleolar protein with MIF4G domain 1,Nucleus,other
+2.119,downstream,Olfr1406,Olfr1406,olfactory receptor 1406,Plasma Membrane,G-protein coupled receptor
+2.119,upstream,Olfr49,Olfr49,olfactory receptor 49,Plasma Membrane,G-protein coupled receptor
+2.119,upstream,Oxgr1,OXGR1,oxoglutarate receptor 1,Plasma Membrane,G-protein coupled receptor
+2.119,upstream,Pcna-ps2,Pcna-ps2,proliferating cell nuclear antigen pseudogene 2,Other,other
+2.119,downstream,Ran,RAN,"RAN, member RAS oncogene family",Nucleus,enzyme
+2.119,upstream,Rassf8,RASSF8,Ras association domain family member 8,Extracellular Space,other
+2.119,upstream,Rpl10,RPL10,ribosomal protein L10,Cytoplasm,other
+2.119,inside,Sbsn,SBSN,suprabasin,Cytoplasm,other
+2.119,downstream,Slitrk3,SLITRK3,SLIT and NTRK like family member 3,Plasma Membrane,other
+2.119,inside,Smarca2,SMARCA2,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",Nucleus,transcription regulator
+2.119,upstream,Srp54c,Srp54c,signal recognition particle 54C,Other,other
+2.119,downstream,Sry,Sry,sex determining region of Chr Y,Nucleus,transcription regulator
+2.119,upstream,Sry,Sry,sex determining region of Chr Y,Nucleus,transcription regulator
+2.119,inside,St3gal3,ST3GAL3,"ST3 beta-galactoside alpha-2,3-sialyltransferase 3",Cytoplasm,enzyme
+2.119,downstream,Tmem69,TMEM69,transmembrane protein 69,Other,other
+2.119,downstream,Tns1,TNS1,tensin 1,Plasma Membrane,other
+2.119,inside,Top1,TOP1,topoisomerase (DNA) I,Nucleus,enzyme
+2.119,downstream,Trp53inp2,TP53INP2,tumor protein p53 inducible nuclear protein 2,Nucleus,other
+2.119,inside,Ube3b,UBE3B,ubiquitin protein ligase E3B,Extracellular Space,enzyme
+2.119,downstream,Vmn1r209,Vmn1r214 (includes others),vomeronasal 1 receptor 214,Plasma Membrane,G-protein coupled receptor
+2.119,downstream,Vmn1r48,Vmn1r47/Vmn1r48,vomeronasal 1 receptor 47,Other,other
+2.119,upstream,Xlr5a,Xlr5a (includes others),X-linked lymphocyte-regulated 5A,Other,other
+2.119,upstream,Zfp407,ZNF407,zinc finger protein 407,Nucleus,other
+2.074,inside,Bard1,BARD1,BRCA1 associated RING domain 1,Nucleus,transcription regulator
+2.064,upstream,Abcb1b,Abcb1b,"ATP-binding cassette, sub-family B (MDR/TAP), member 1B",Plasma Membrane,transporter
+2.064,downstream,Gm13167,Gm13167,predicted gene 13167,Other,other
+2.057,upstream,Cyp2c29,CYP2C8,cytochrome P450 family 2 subfamily C member 8,Cytoplasm,enzyme
+2.057,inside,Dpf3,Dpf3,double PHD fingers 3,Nucleus,other
+2.057,upstream,Galp,GALP,galanin like peptide,Extracellular Space,other
+2.048,upstream,Bola1,BOLA1,bolA family member 1,Cytoplasm,other
+2.048,upstream,Dcun1d3,DCUN1D3,defective in cullin neddylation 1 domain containing 3,Cytoplasm,other
+2.048,upstream,Faim2,FAIM2,Fas apoptotic inhibitory molecule 2,Plasma Membrane,other
+2.048,upstream,Gm10293,Gm10293,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+2.048,upstream,Mapk1,MAPK1,mitogen-activated protein kinase 1,Cytoplasm,kinase
+2.043,downstream,Gm16202,Gm16202,sorting nexin 4 pseudogene,Other,other
+2.036,upstream,Eif4g3,EIF4G3,eukaryotic translation initiation factor 4 gamma 3,Cytoplasm,translation regulator
+2.036,inside,Fam65a,RIPOR1,RHO family interacting cell polarization regulator 1,Cytoplasm,other
+2.036,upstream,Insr,INSR,insulin receptor,Plasma Membrane,kinase
+2.036,downstream,Kars-ps1,Kars-ps1,"lysyl-tRNA synthetase, pseudogene 1",Other,other
+2.036,upstream,Klhl14,KLHL14,kelch like family member 14,Cytoplasm,other
+2.036,downstream,Klrc3,Klrc2/Klrc3,"killer cell lectin-like receptor subfamily C, member 2",Plasma Membrane,transmembrane receptor
+2.036,upstream,Laptm4b,LAPTM4B,lysosomal protein transmembrane 4 beta,Cytoplasm,other
+2.036,downstream,Max,MAX,MYC associated factor X,Nucleus,transcription regulator
+2.036,upstream,Ndufb4,NDUFB4,NADH:ubiquinone oxidoreductase subunit B4,Cytoplasm,transporter
+2.036,upstream,Nkx2-5,NKX2-5,NK2 homeobox 5,Nucleus,transcription regulator
+2.036,upstream,Prdx6b,Prdx6b,peroxiredoxin 6B,Cytoplasm,enzyme
+2.036,upstream,Rasa1,RASA1,RAS p21 protein activator 1,Cytoplasm,transporter
+2.019,inside,1600002K03Rik,C19orf24,chromosome 19 open reading frame 24,Other,other
+2.019,downstream,AI593442,C11orf87,chromosome 11 open reading frame 87,Other,other
+2.019,downstream,Arhgap40,ARHGAP40,Rho GTPase activating protein 40,Cytoplasm,other
+2.019,downstream,Cdc73,CDC73,cell division cycle 73,Nucleus,other
+2.019,inside,Cdk6,CDK6,cyclin dependent kinase 6,Nucleus,kinase
+2.019,upstream,Dab2,DAB2,"DAB2, clathrin adaptor protein",Plasma Membrane,other
+2.019,upstream,Ednra,EDNRA,endothelin receptor type A,Plasma Membrane,transmembrane receptor
+2.019,downstream,Gins2,GINS2,GINS complex subunit 2,Nucleus,other
+2.019,downstream,Gm11783,Gm11783,predicted gene 11783,Other,other
+2.019,upstream,Gm14332,Gm14332,"spindlin family, member 2 pseudogene",Other,other
+2.019,upstream,Gm14678,Gm14678,"tumor necrosis factor, alpha-induced protein 1 (endothelial) pseudogene",Other,other
+2.019,upstream,Gm4822,Gm4822,U1 small nuclear ribonucleoprotein 1C pseudogene,Other,other
+2.019,downstream,Gm5403,Gm5403,F-box protein 21 pseudogene,Other,other
+2.019,inside,Mcm4,MCM4,minichromosome maintenance complex component 4,Nucleus,enzyme
+2.019,inside,Pacs2,PACS2,phosphofurin acidic cluster sorting protein 2,Cytoplasm,other
+2.019,upstream,Papss2,PAPSS2,3'-phosphoadenosine 5'-phosphosulfate synthase 2,Cytoplasm,enzyme
+2.019,downstream,Ppp4r2,PPP4R2,protein phosphatase 4 regulatory subunit 2,Cytoplasm,other
+2.019,upstream,Ptger4,PTGER4,prostaglandin E receptor 4,Plasma Membrane,G-protein coupled receptor
+2.019,upstream,Rabgap1l,RABGAP1L,RAB GTPase activating protein 1 like,Cytoplasm,other
+2.019,upstream,Rag2,RAG2,recombination activating 2,Nucleus,enzyme
+2.019,upstream,Rbpsuh-rs3,Rbpsuh-rs3,"recombining binding protein suppressor of hairless (Drosophila), related sequence 3",Other,other
+2.019,upstream,Rpl23a-ps6,Rpl23a-ps6,"ribosomal protein 23A, pseudogene 6",Other,other
+2.019,downstream,Slc15a5,SLC15A5,solute carrier family 15 member 5,Other,other
+2.019,upstream,Slc6a13,SLC6A13,solute carrier family 6 member 13,Plasma Membrane,transporter
+2.019,downstream,Sspn,SSPN,sarcospan,Plasma Membrane,other
+2.007,downstream,Atp6ap1l,Atp6ap1l,"ATPase, H+ transporting, lysosomal accessory protein 1-like",Other,other
+2.003,upstream,Sh2d2a,SH2D2A,SH2 domain containing 2A,Cytoplasm,other
+-2.002,upstream,Emb,EMB,embigin,Plasma Membrane,transporter
+-2.002,overlapStart,Gm11569,KRTAP4-9,keratin associated protein 4-9,Cytoplasm,other
+-2.002,downstream,Gm13198,Gm13198,"solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 5",Other,other
+-2.002,downstream,Gm13239,Gm13239,high mobility group box 3 pseudogene,Other,other
+-2.002,inside,Syt2,SYT2,synaptotagmin 2,Cytoplasm,transporter
+-2.011,inside,Fyb,FYB,FYN binding protein,Nucleus,other
+-2.011,inside,Ppfia2,PPFIA2,PTPRF interacting protein alpha 2,Plasma Membrane,phosphatase
+-2.011,inside,Spats2,SPATS2,spermatogenesis associated serine rich 2,Cytoplasm,other
+-2.03,inside,1700018B08Rik,C16orf95,chromosome 16 open reading frame 95,Other,other
+-2.051,upstream,4933403O08Rik,4933403O08Rik,RIKEN cDNA 4933403O08 gene,Other,other
+-2.051,downstream,9030624G23Rik,9030624G23Rik (includes others),predicted gene 9257,Cytoplasm,other
+-2.051,inside,A830018L16Rik,C8orf34,chromosome 8 open reading frame 34,Other,other
+-2.051,upstream,Abra,ABRA,actin binding Rho activating protein,Cytoplasm,other
+-2.051,downstream,Alox12e,Alox12e,"arachidonate lipoxygenase, epidermal",Cytoplasm,enzyme
+-2.051,upstream,Arap2,ARAP2,"ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2",Cytoplasm,other
+-2.051,downstream,Atp5l-ps1,Atp5l-ps1,"ATP synthase, H+ transporting, mitochondrial F0 complex, subunit G, pseudogene 1",Other,other
+-2.051,upstream,B3gat1,B3GAT1,"beta-1,3-glucuronyltransferase 1",Cytoplasm,enzyme
+-2.051,upstream,Cblb,CBLB,Cbl proto-oncogene B,Nucleus,enzyme
+-2.051,upstream,Cbx7,CBX7,chromobox 7,Nucleus,other
+-2.051,downstream,Ccdc68,Ccdc68,coiled-coil domain containing 68,Other,other
+-2.051,upstream,Cdh18,CDH18,cadherin 18,Plasma Membrane,other
+-2.051,downstream,Cdh7,CDH7,cadherin 7,Plasma Membrane,other
+-2.051,downstream,Cilp2,CILP2,cartilage intermediate layer protein 2,Extracellular Space,other
+-2.051,upstream,Cntnap5a,CNTNAP5,contactin associated protein like 5,Other,other
+-2.051,inside,Crp,CRP,C-reactive protein,Extracellular Space,other
+-2.051,downstream,Ctla2b,Ctla2a/Ctla2b,cytotoxic T lymphocyte-associated protein 2 alpha,Plasma Membrane,other
+-2.051,downstream,D3Ertd751e,C4orf33,chromosome 4 open reading frame 33,Other,other
+-2.051,inside,D830044D21Rik,D830044D21Rik,RIKEN cDNA D830044D21 gene,Other,other
+-2.051,upstream,Dgkk,DGKK,diacylglycerol kinase kappa,Cytoplasm,kinase
+-2.051,upstream,Dok6,DOK6,docking protein 6,Cytoplasm,other
+-2.051,downstream,Drosha,DROSHA,drosha ribonuclease III,Nucleus,enzyme
+-2.051,downstream,Ear1,Rnase2 (includes others),ribonuclease A family member 2,Cytoplasm,enzyme
+-2.051,upstream,Ear-ps2,Ear-ps2,"eosinophil-associated, ribonuclease A family, pseudogene 2",Other,other
+-2.051,downstream,Fam50b,FAM50B,family with sequence similarity 50 member B,Other,other
+-2.051,downstream,Gm10340,Gm10408 (includes others),predicted gene 3115,Other,other
+-2.051,downstream,Gm11220,Gm11220,predicted gene 11220,Other,other
+-2.051,downstream,Gm11341,Gm11341,ribosomal protein L27a pseudogene,Other,other
+-2.051,downstream,Gm12133,Gm12133,ribosomal protein S2 pseudogene,Other,other
+-2.051,upstream,Gm13806,Gm13806,heat shock protein 1 (chaperonin) pseudogene 20,Other,other
+-2.051,upstream,Gm14981,Gm14981,crumbs homolog 1 pseudogene,Other,other
+-2.051,downstream,Gm2066,Gm2066 (includes others),predicted pseudogene 2066,Other,other
+-2.051,downstream,Gm2288,Gm2288,predicted gene 2288,Other,other
+-2.051,downstream,Gm5934,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.051,upstream,Gm6517,Gm6517,predicted gene 6517,Other,other
+-2.051,inside,Grik2,GRIK2,glutamate ionotropic receptor kainate type subunit 2,Plasma Membrane,ion channel
+-2.051,downstream,Hpgd,HPGD,hydroxyprostaglandin dehydrogenase 15-(NAD),Cytoplasm,enzyme
+-2.051,inside,Mcc,MCC,mutated in colorectal cancers,Cytoplasm,other
+-2.051,upstream,Mkrn3,MKRN3,makorin ring finger protein 3,Nucleus,other
+-2.051,inside,Nell1,NELL1,neural EGFL like 1,Extracellular Space,growth factor
+-2.051,inside,Nlgn1,NLGN1,neuroligin 1,Plasma Membrane,enzyme
+-2.051,upstream,Nlrp4b,Nlrp4b,"NLR family, pyrin domain containing 4B",Other,other
+-2.051,inside,Nme7,NME7,NME/NM23 family member 7,Cytoplasm,kinase
+-2.051,downstream,Olfr1505,OR9I1,olfactory receptor family 9 subfamily I member 1,Plasma Membrane,G-protein coupled receptor
+-2.051,upstream,Pcdh9,PCDH9,protocadherin 9,Plasma Membrane,other
+-2.051,upstream,Pvr,Pvr,poliovirus receptor,Plasma Membrane,other
+-2.051,inside,Satb2,SATB2,SATB homeobox 2,Nucleus,transcription regulator
+-2.051,downstream,Spata4,SPATA4,spermatogenesis associated 4,Cytoplasm,other
+-2.051,inside,Srd5a1,SRD5A1,steroid 5 alpha-reductase 1,Cytoplasm,enzyme
+-2.051,upstream,Tmeff2,Tmeff2,transmembrane protein with EGF-like and two follistatin-like domains 2,Other,other
+-2.051,upstream,Tomm70a,TOMM70,translocase of outer mitochondrial membrane 70,Cytoplasm,transporter
+-2.051,downstream,Trdv1,Trdv1,T cell receptor delta variable 1,Other,other
+-2.051,upstream,Vps37b,VPS37B,"VPS37B, ESCRT-I subunit",Cytoplasm,other
+-2.051,inside,Xkr4,XKR4,XK related 4,Other,other
+-2.051,upstream,Zfr,ZFR,zinc finger RNA binding protein,Nucleus,other
+-2.091,downstream,Olfr1353,Olfr1353,olfactory receptor 1353,Plasma Membrane,G-protein coupled receptor
+-2.099,upstream,Arrdc3,ARRDC3,arrestin domain containing 3,Plasma Membrane,other
+-2.099,inside,Gpc5,GPC5,glypican 5,Plasma Membrane,other
+-2.11,upstream,Cass4,CASS4,Cas scaffolding protein family member 4,Other,other
+-2.11,downstream,Gm15073,Gm15073,crumbs homolog 1 pseudogene,Other,other
+-2.11,upstream,Kcne2,KCNE2,potassium voltage-gated channel subfamily E regulatory subunit 2,Plasma Membrane,ion channel
+-2.11,downstream,Zfp536,ZNF536,zinc finger protein 536,Other,transcription regulator
+-2.11,upstream,Zfy2,Zfy1/Zfy2,"zinc finger protein 1, Y-linked",Nucleus,other
+-2.129,downstream,4930583I09Rik,4930583I09Rik,RIKEN cDNA 4930583I09 gene,Other,other
+-2.129,inside,Cdr2,CDR2,cerebellar degeneration related protein 2,Cytoplasm,other
+-2.129,upstream,Cntnap5a,CNTNAP5,contactin associated protein like 5,Other,other
+-2.129,inside,Dscam,DSCAM,DS cell adhesion molecule,Plasma Membrane,other
+-2.129,upstream,Fads2,FADS2,fatty acid desaturase 2,Plasma Membrane,enzyme
+-2.129,inside,Fam174b,FAM174B,family with sequence similarity 174 member B,Other,other
+-2.129,upstream,Fbxo33,FBXO33,F-box protein 33,Other,other
+-2.129,downstream,Gm10340,Gm10408 (includes others),predicted gene 3115,Other,other
+-2.129,downstream,Gm12020,Gm12020,nucleolin pseudogene,Other,other
+-2.129,upstream,Gm12460,Gm12460,predicted gene 12460,Other,other
+-2.129,downstream,Gm12696,Gm12696,predicted gene 12696,Other,other
+-2.129,downstream,Gm14957,Gm14957,predicted gene 14957,Other,other
+-2.129,downstream,Gm16439,Gm16439,BCL2/adenovirus E1B interacting protein 3,Other,other
+-2.129,upstream,Gm5935,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.129,inside,Grin3a,GRIN3A,glutamate ionotropic receptor NMDA type subunit 3A,Plasma Membrane,ion channel
+-2.129,inside,Lmo3,Lmo3,LIM domain only 3,Cytoplasm,other
+-2.129,upstream,Lox,LOX,lysyl oxidase,Extracellular Space,enzyme
+-2.129,upstream,Mir1895,Mir1895,microRNA 1895,Cytoplasm,microRNA
+-2.129,upstream,Mrpl19,MRPL19,mitochondrial ribosomal protein L19,Cytoplasm,other
+-2.129,downstream,Olfr1241,Olfr1241,olfactory receptor 1241,Plasma Membrane,G-protein coupled receptor
+-2.129,downstream,Olfr586,Olfr586,olfactory receptor 586,Plasma Membrane,G-protein coupled receptor
+-2.129,downstream,Plekhb2,PLEKHB2,pleckstrin homology domain containing B2,Other,other
+-2.129,upstream,Pot1a,POT1,protection of telomeres 1,Nucleus,other
+-2.129,inside,Rab28,RAB28,"RAB28, member RAS oncogene family",Plasma Membrane,enzyme
+-2.129,inside,Ryr3,RYR3,ryanodine receptor 3,Plasma Membrane,ion channel
+-2.129,upstream,Thrb,THRB,thyroid hormone receptor beta,Nucleus,ligand-dependent nuclear receptor
+-2.129,downstream,Usp46,USP46,ubiquitin specific peptidase 46,Other,peptidase
+-2.129,upstream,Vmn1r62,Vmn1r63 (includes others),vomeronasal 1 receptor 63,Other,other
+-2.145,inside,Apoc2,APOC2,apolipoprotein C2,Extracellular Space,transporter
+-2.145,upstream,Eml6,EML6,echinoderm microtubule associated protein like 6,Other,other
+-2.145,upstream,Gm2974,Gm2974,predicted gene 2974,Other,other
+-2.145,upstream,Map2k4,MAP2K4,mitogen-activated protein kinase kinase 4,Cytoplasm,kinase
+-2.167,upstream,4921530L21Rik,4921530L21Rik,RIKEN cDNA 4921530L21 gene,Other,other
+-2.167,downstream,Cbln2,CBLN2,cerebellin 2 precursor,Extracellular Space,other
+-2.167,upstream,Gm10330,Gm10330,predicted gene 10330,Other,other
+-2.167,upstream,Gm5155,Ceacam5/Gm5155,predicted gene 5155,Other,other
+-2.167,inside,Rdh9,RDH16,retinol dehydrogenase 16 (all-trans),Cytoplasm,enzyme
+-2.189,upstream,Vmn1r86,Vmn1r89 (includes others),vomeronasal 1 receptor 89,Plasma Membrane,G-protein coupled receptor
+-2.191,downstream,Siah2,SIAH2,siah E3 ubiquitin protein ligase 2,Nucleus,transcription regulator
+-2.194,inside,Mast4,MAST4,microtubule associated serine/threonine kinase family member 4,Other,kinase
+-2.203,downstream,4932412D23Rik,4932412D23Rik,RIKEN cDNA 4932412D23 gene,Other,other
+-2.203,inside,Ankrd42,ANKRD42,ankyrin repeat domain 42,Nucleus,transcription regulator
+-2.203,upstream,Arl5b,Arl5b,ADP-ribosylation factor like GTPase 5B,Other,other
+-2.203,downstream,BC061212,A430089I19Rik (includes others),uncharacterized LOC545763,Other,other
+-2.203,downstream,Cenpk,CENPK,centromere protein K,Nucleus,other
+-2.203,upstream,Cntnap5b,Cntnap5b,contactin associated protein-like 5B,Other,other
+-2.203,upstream,Col11a1,COL11A1,collagen type XI alpha 1 chain,Extracellular Space,other
+-2.203,inside,Dock4,Dock4,dedicator of cytokinesis 4,Extracellular Space,other
+-2.203,downstream,Dsc3,DSC3,desmocollin 3,Plasma Membrane,other
+-2.203,upstream,Gm14197,Gm14197,predicted gene 14197,Other,other
+-2.203,inside,Gm14288,Gm14288 (includes others),predicted gene 14288,Other,other
+-2.203,upstream,Gm14434,ZNF442,zinc finger protein 442,Nucleus,other
+-2.203,upstream,Gm3298,Gm16440 (includes others),predicted gene 16440,Other,other
+-2.203,downstream,Gm4918,Gm4918,"actin, beta pseudogene",Other,other
+-2.203,upstream,Kat2b,KAT2B,lysine acetyltransferase 2B,Nucleus,transcription regulator
+-2.203,upstream,Myocd,MYOCD,myocardin,Nucleus,transcription regulator
+-2.203,upstream,Psg20,Psg18 (includes others),pregnancy specific glycoprotein 18,Extracellular Space,other
+-2.203,upstream,Sfmbt2,SFMBT2,Scm-like with four mbt domains 2,Nucleus,other
+-2.203,downstream,Slc30a8,SLC30A8,solute carrier family 30 member 8,Cytoplasm,transporter
+-2.203,downstream,Wnt3,WNT3,Wnt family member 3,Extracellular Space,other
+-2.221,upstream,St6gal2,ST6GAL2,"ST6 beta-galactoside alpha-2,6-sialyltransferase 2",Cytoplasm,enzyme
+-2.229,upstream,1700048O20Rik,1700048O20Rik,RIKEN cDNA 1700048O20 gene,Other,other
+-2.235,inside,Gm11623,Gm11623,predicted gene 11623,Other,other
+-2.253,inside,Fndc1,FNDC1,fibronectin type III domain containing 1,Plasma Membrane,other
+-2.274,inside,2610042L04Rik,2610042L04Rik,RIKEN cDNA 2610042L04 gene,Other,other
+-2.274,upstream,3110018I06Rik,3110018I06Rik,RIKEN cDNA 3110018I06 gene,Other,other
+-2.274,downstream,5031425E22Rik,5031425E22Rik,RIKEN cDNA 5031425E22 gene,Other,other
+-2.274,downstream,5530400C23Rik,5530400C23Rik/Gm5885,predicted gene 5885,Other,other
+-2.274,upstream,6330403K07Rik,LOC728392,uncharacterized LOC728392,Other,other
+-2.274,upstream,Adam25,Adam25,a disintegrin and metallopeptidase domain 25 (testase 2),Other,other
+-2.274,upstream,Adamtsl3,ADAMTSL3,ADAMTS like 3,Other,other
+-2.274,inside,Agbl1,AGBL1,ATP/GTP binding protein like 1,Other,peptidase
+-2.274,upstream,Amy2a5,AMY2B,"amylase, alpha 2B (pancreatic)",Extracellular Space,enzyme
+-2.274,downstream,Angpt1,ANGPT1,angiopoietin 1,Extracellular Space,growth factor
+-2.274,inside,Ankib1,ANKIB1,ankyrin repeat and IBR domain containing 1,Nucleus,transcription regulator
+-2.274,upstream,Arrdc4,Arrdc4,arrestin domain containing 4,Other,other
+-2.274,upstream,Arsj,ARSJ,arylsulfatase family member J,Extracellular Space,enzyme
+-2.274,overlapEnd,AU041133,AU041133,expressed sequence AU041133,Other,other
+-2.274,upstream,B3galnt2,B3GALNT2,"beta-1,3-N-acetylgalactosaminyltransferase 2",Cytoplasm,enzyme
+-2.274,upstream,Bloc1s2,BLOC1S2,biogenesis of lysosomal organelles complex 1 subunit 2,Cytoplasm,other
+-2.274,downstream,Cbln2,CBLN2,cerebellin 2 precursor,Extracellular Space,other
+-2.274,upstream,Ccr9,CCR9,C-C motif chemokine receptor 9,Plasma Membrane,G-protein coupled receptor
+-2.274,downstream,Cd200,CD200,CD200 molecule,Plasma Membrane,other
+-2.274,downstream,Cdh19,CDH19,cadherin 19,Plasma Membrane,other
+-2.274,upstream,Chrm3,CHRM3,cholinergic receptor muscarinic 3,Plasma Membrane,G-protein coupled receptor
+-2.274,upstream,Creb1,CREB1,cAMP responsive element binding protein 1,Nucleus,transcription regulator
+-2.274,downstream,Csl,Csl,citrate synthase like,Cytoplasm,enzyme
+-2.274,inside,Cux1,CUX1,cut like homeobox 1,Nucleus,transcription regulator
+-2.274,upstream,D5Ertd577e,C87414 (includes others),expressed sequence C87414,Other,other
+-2.274,upstream,Ddi1,DDI1,DNA damage inducible 1 homolog 1,Other,other
+-2.274,inside,Dmd,Dmd,dystrophin,Plasma Membrane,other
+-2.274,downstream,Eif5al3-ps,Eif5al3-ps,"eukaryotic translation initiation factor 5A-like 3, pseudogene",Other,other
+-2.274,upstream,Eml2,EML2,echinoderm microtubule associated protein like 2,Cytoplasm,other
+-2.274,upstream,Epgn,EPGN,epithelial mitogen,Extracellular Space,growth factor
+-2.274,downstream,Epha4,EPHA4,EPH receptor A4,Plasma Membrane,kinase
+-2.274,upstream,Eya4,EYA4,EYA transcriptional coactivator and phosphatase 4,Cytoplasm,phosphatase
+-2.274,upstream,Fam117b,FAM117B,family with sequence similarity 117 member B,Other,other
+-2.274,upstream,Fgf14,FGF14,fibroblast growth factor 14,Extracellular Space,growth factor
+-2.274,upstream,Foxn3,Foxn3,forkhead box N3,Other,other
+-2.274,downstream,Fpr-rs7,Fpr-rs7,"formyl peptide receptor, related sequence 7",Plasma Membrane,G-protein coupled receptor
+-2.274,downstream,Gm10188,Gm10188,predicted gene 10188,Other,other
+-2.274,upstream,Gm10479,Gm10479,predicted gene 10479,Other,other
+-2.274,downstream,Gm11220,Gm11220,predicted gene 11220,Other,other
+-2.274,downstream,Gm11796,Gm11796,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+-2.274,upstream,Gm11821,Gm11821,predicted gene 11821,Other,other
+-2.274,downstream,Gm11853,Gm11853,kinesin family member 2C pseudogene,Other,other
+-2.274,upstream,Gm12695,C1orf87,chromosome 1 open reading frame 87,Extracellular Space,other
+-2.274,upstream,Gm12886,Gm10573 (includes others),predicted gene 8359,Other,other
+-2.274,upstream,Gm13239,Gm13239,high mobility group box 3 pseudogene,Other,other
+-2.274,upstream,Gm13305,IL11RA,interleukin 11 receptor subunit alpha,Plasma Membrane,transmembrane receptor
+-2.274,upstream,Gm13367,Gm13367,predicted gene 13367,Other,other
+-2.274,upstream,Gm14353,Gm14353,predicted gene 14353,Other,other
+-2.274,downstream,Gm14578,Gm14578,predicted gene 14578,Other,other
+-2.274,downstream,Gm14917,Gm14917,predicted gene 14917,Other,other
+-2.274,downstream,Gm14957,Gm14957,predicted gene 14957,Other,other
+-2.274,downstream,Gm15355,Gm15355,"ribosomal protein, large, P0 pseudogene",Other,other
+-2.274,upstream,Gm2005,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.274,downstream,Gm5265,Gm5265,predicted pseudogene 5265,Other,other
+-2.274,upstream,Gm5641,Gm5641,heterogeneous nuclear ribonucleoprotein A3 pseudogene,Other,other
+-2.274,upstream,Gm5830,Gm5830,ubiquitin-conjugating enzyme E2 variant 1 pseudogene,Other,other
+-2.274,upstream,Gm6369,Gm6369,predicted gene 6369,Other,other
+-2.274,upstream,Gm6460,Speer4a (includes others),spermatogenesis associated glutamate (E)-rich protein 4A,Nucleus,other
+-2.274,downstream,Gm6460,Speer4a (includes others),spermatogenesis associated glutamate (E)-rich protein 4A,Nucleus,other
+-2.274,downstream,Gm8864,Gm8864,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+-2.274,upstream,Gm8991,Gm8991,predicted pseudogene 8991,Other,other
+-2.274,upstream,Gm9308,Gm9308,predicted gene 9308,Other,other
+-2.274,inside,Grik2,GRIK2,glutamate ionotropic receptor kainate type subunit 2,Plasma Membrane,ion channel
+-2.274,upstream,Grik2,GRIK2,glutamate ionotropic receptor kainate type subunit 2,Plasma Membrane,ion channel
+-2.274,upstream,Grm7,GRM7,glutamate metabotropic receptor 7,Plasma Membrane,G-protein coupled receptor
+-2.274,inside,Gstp2,GSTP1,glutathione S-transferase pi 1,Cytoplasm,enzyme
+-2.274,inside,Gtf3c3,GTF3C3,general transcription factor IIIC subunit 3,Nucleus,transcription regulator
+-2.274,inside,Gucy1a2,GUCY1A2,guanylate cyclase 1 soluble subunit alpha 2,Cytoplasm,enzyme
+-2.274,upstream,Gypa,Gypa,glycophorin A,Plasma Membrane,other
+-2.274,upstream,H2-M10.1,H2-M10.1 (includes others),"histocompatibility 2, M region locus 10.1",Plasma Membrane,other
+-2.274,inside,Hectd2,HECTD2,HECT domain E3 ubiquitin protein ligase 2,Cytoplasm,enzyme
+-2.274,upstream,Hsf2,HSF2,heat shock transcription factor 2,Nucleus,transcription regulator
+-2.274,upstream,Ifngr1,IFNGR1,interferon gamma receptor 1,Plasma Membrane,transmembrane receptor
+-2.274,upstream,Ighg3,Ighg3,Immunoglobulin heavy constant gamma 3,Extracellular Space,other
+-2.274,inside,Kdm4c,KDM4C,lysine demethylase 4C,Nucleus,enzyme
+-2.274,upstream,Klf17,KLF17,Kruppel like factor 17,Nucleus,transcription regulator
+-2.274,upstream,Mageb16,MAGEB16,MAGE family member B16,Other,other
+-2.274,inside,Minpp1,MINPP1,multiple inositol-polyphosphate phosphatase 1,Cytoplasm,phosphatase
+-2.274,upstream,Mir551b,mir-551,microRNA 551b,Cytoplasm,microRNA
+-2.274,upstream,Mmp20,MMP20,matrix metallopeptidase 20,Extracellular Space,peptidase
+-2.274,upstream,Msl3l2,Msl3l2,male-specific lethal 3-like 2 (Drosophila),Other,other
+-2.274,upstream,Msrb2,MSRB2,methionine sulfoxide reductase B2,Nucleus,transcription regulator
+-2.274,upstream,Mtx3,MTX3,metaxin 3,Other,other
+-2.274,upstream,Mup21,Mup1 (includes others),major urinary protein 1,Extracellular Space,other
+-2.274,upstream,Naf1,NAF1,nuclear assembly factor 1 ribonucleoprotein,Cytoplasm,other
+-2.274,inside,Napb,NAPB,NSF attachment protein beta,Cytoplasm,transporter
+-2.274,inside,Ndufs4,NDUFS4,NADH:ubiquinone oxidoreductase subunit S4,Cytoplasm,enzyme
+-2.274,downstream,Nr1d2,NR1D2,nuclear receptor subfamily 1 group D member 2,Nucleus,ligand-dependent nuclear receptor
+-2.274,overlapStart,Obox1,LOC102554917/Obox1,oocyte specific homeobox 1,Other,transcription regulator
+-2.274,downstream,Olfm4,OLFM4,olfactomedin 4,Extracellular Space,other
+-2.274,upstream,Olfr18,Olfr18,olfactory receptor 18,Plasma Membrane,G-protein coupled receptor
+-2.274,downstream,Phxr4,Phxr4,per-hexamer repeat gene 4,Plasma Membrane,other
+-2.274,inside,Pld5,PLD5,phospholipase D family member 5,Other,other
+-2.274,upstream,Plscr4,PLSCR4,phospholipid scramblase 4,Plasma Membrane,enzyme
+-2.274,upstream,Plxna2,PLXNA2,plexin A2,Plasma Membrane,transmembrane receptor
+-2.274,inside,Ppp3ca,PPP3CA,protein phosphatase 3 catalytic subunit alpha,Cytoplasm,phosphatase
+-2.274,downstream,Prlhr,PRLHR,prolactin releasing hormone receptor,Plasma Membrane,G-protein coupled receptor
+-2.274,downstream,Psmg1,PSMG1,proteasome assembly chaperone 1,Plasma Membrane,other
+-2.274,downstream,Ptbp2,PTBP2,polypyrimidine tract binding protein 2,Nucleus,other
+-2.274,upstream,Ptpn12,PTPN12,"protein tyrosine phosphatase, non-receptor type 12",Cytoplasm,phosphatase
+-2.274,upstream,Rap1a-ps2,Rap1a-ps2,"RAS related protein-1a, pseudogene 2",Other,other
+-2.274,downstream,Rap2b,RAP2B,"RAP2B, member of RAS oncogene family",Plasma Membrane,enzyme
+-2.274,inside,Rbms3,RBMS3,RNA binding motif single stranded interacting protein 3,Other,other
+-2.274,upstream,Reg3g,REG3G,regenerating family member 3 gamma,Extracellular Space,other
+-2.274,inside,Rrp15,RRP15,ribosomal RNA processing 15 homolog,Nucleus,other
+-2.274,upstream,Sema5b,SEMA5B,semaphorin 5B,Plasma Membrane,other
+-2.274,inside,Slc6a20b,Slc6a20b,"solute carrier family 6 (neurotransmitter transporter), member 20B",Plasma Membrane,transporter
+-2.274,upstream,Slc7a11,SLC7A11,solute carrier family 7 member 11,Plasma Membrane,transporter
+-2.274,upstream,Slc7a11,SLC7A11,solute carrier family 7 member 11,Plasma Membrane,transporter
+-2.274,upstream,Smad2,SMAD2,SMAD family member 2,Nucleus,transcription regulator
+-2.274,downstream,Sorl1,SORL1,sortilin related receptor 1,Cytoplasm,transporter
+-2.274,downstream,Spry4,SPRY4,sprouty RTK signaling antagonist 4,Plasma Membrane,other
+-2.274,upstream,St6gal2,ST6GAL2,"ST6 beta-galactoside alpha-2,6-sialyltransferase 2",Cytoplasm,enzyme
+-2.274,inside,Stac,STAC,SH3 and cysteine rich domain,Cytoplasm,other
+-2.274,upstream,Sult1c2,Sult1c2 (includes others),sulfotransferase family 1C member 2,Cytoplasm,enzyme
+-2.274,upstream,Tpm2,Tpm2,"tropomyosin 2, beta",Cytoplasm,other
+-2.274,upstream,Trem1,TREM1,triggering receptor expressed on myeloid cells 1,Plasma Membrane,transmembrane receptor
+-2.274,downstream,Vmn1r44,Vmn1r49 (includes others),"vomeronasal 1, receptor 49",Plasma Membrane,G-protein coupled receptor
+-2.274,upstream,Wdr44,WDR44,WD repeat domain 44,Cytoplasm,other
+-2.274,downstream,Zfp330,ZNF330,zinc finger protein 330,Nucleus,other
+-2.274,upstream,Zfp804a,ZNF804A,zinc finger protein 804A,Other,other
+-2.274,upstream,Zfp81,Zfp81,zinc finger protein 81,Other,other
+-2.303,upstream,Gm12095,Gm12095,predicted gene 12095,Other,other
+-2.303,downstream,Sox2,SOX2,SRY-box 2,Nucleus,transcription regulator
+-2.324,downstream,Gm10128,Gm10128,alpha-takusan pseudogene,Other,other
+-2.341,upstream,Exoc1,Exoc1,exocyst complex component 1,Cytoplasm,other
+-2.341,downstream,Gm12644,Gm12644,within bgcn homolog pseudogene,Other,other
+-2.341,downstream,Gm3286,C87414 (includes others),expressed sequence C87414,Other,other
+-2.341,upstream,Gm5764,Gm5764,ribosomal protein SA pseudogene,Other,other
+-2.341,downstream,Gm6851,Gm6851,predicted pseudogene 6851,Other,other
+-2.341,downstream,Gm815,Gm815,predicted gene 815,Other,other
+-2.341,inside,Nrxn1,NRXN1,neurexin 1,Plasma Membrane,transporter
+-2.341,upstream,Olfr593,Olfr593,olfactory receptor 593,Plasma Membrane,G-protein coupled receptor
+-2.354,inside,Rbp2,RBP2,retinol binding protein 2,Cytoplasm,transporter
+-2.373,inside,A830018L16Rik,C8orf34,chromosome 8 open reading frame 34,Other,other
+-2.373,downstream,BC048507,BC048507,cDNA sequence BC048507,Other,other
+-2.373,downstream,BC048507,BC048507,cDNA sequence BC048507,Other,other
+-2.373,downstream,BC048507,BC048507,cDNA sequence BC048507,Other,other
+-2.373,upstream,Bdnf,BDNF,brain derived neurotrophic factor,Extracellular Space,growth factor
+-2.373,upstream,Bet1,BET1,Bet1 golgi vesicular membrane trafficking protein,Cytoplasm,transporter
+-2.373,upstream,Cdh6,CDH6,cadherin 6,Plasma Membrane,other
+-2.373,upstream,Cmtm8,CMTM8,CKLF like MARVEL transmembrane domain containing 8,Extracellular Space,cytokine
+-2.373,upstream,Crim1,CRIM1,cysteine rich transmembrane BMP regulator 1,Extracellular Space,kinase
+-2.373,inside,Dhx35,DHX35,DEAH-box helicase 35,Other,enzyme
+-2.373,inside,Dis3l2,DIS3L2,DIS3 like 3'-5' exoribonuclease 2,Cytoplasm,enzyme
+-2.373,inside,Dlgap1,DLGAP1,DLG associated protein 1,Plasma Membrane,other
+-2.373,inside,Dpf3,Dpf3,double PHD fingers 3,Nucleus,other
+-2.373,upstream,Dsel,DSEL,dermatan sulfate epimerase-like,Extracellular Space,enzyme
+-2.373,upstream,E2f7,E2F7,E2F transcription factor 7,Nucleus,transcription regulator
+-2.373,inside,Eif2a,EIF2A,eukaryotic translation initiation factor 2A,Cytoplasm,translation regulator
+-2.373,upstream,Fam189a1,FAM189A1,family with sequence similarity 189 member A1,Other,other
+-2.373,upstream,Fam19a1,Fam19a1,"family with sequence similarity 19 member A1, C-C motif chemokine like",Cytoplasm,other
+-2.373,inside,Gatsl2,CASTOR2,cytosolic arginine sensor for mTORC1 subunit 2,Cytoplasm,other
+-2.373,upstream,Gm10192,Gm10192,predicted gene 10192,Other,other
+-2.373,downstream,Gm11033,Gm11033,predicted gene 11033,Other,other
+-2.373,downstream,Gm11849,Gm11849,predicted gene 11849,Other,other
+-2.373,upstream,Gm11871,Gm11871,"core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1 pseudogene",Other,other
+-2.373,upstream,Gm12095,Gm12095,predicted gene 12095,Other,other
+-2.373,downstream,Gm12813,Gm12813,selection and upkeep of intraepithelial T-cells protein 11-like,Other,other
+-2.373,inside,Gm14295,Gm14288 (includes others),predicted gene 14288,Other,other
+-2.373,downstream,Gm15394,Gm15394,"DnaJ (Hsp40) homolog, subfamily C, member 10 pseudogene",Other,other
+-2.373,upstream,Gm1840,Gm1840,glucose phosphate isomerase 1 pseudogene,Other,other
+-2.373,upstream,Gm2005,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.373,downstream,Gm2288,Gm2288,predicted gene 2288,Other,other
+-2.373,downstream,Gm5532,Gm5532,predicted gene 5532,Other,other
+-2.373,downstream,Gm5797,Gm10408 (includes others),predicted gene 3115,Other,other
+-2.373,upstream,Gm9427,Gm9427,"spindlin family, member 2 pseudogene",Other,other
+-2.373,upstream,Hist1h1e,Hist1h1e,"histone cluster 1, H1e",Nucleus,other
+-2.373,upstream,Hsf3,Hsf3,heat shock transcription factor 3,Other,other
+-2.373,upstream,Kcnd2,KCND2,potassium voltage-gated channel subfamily D member 2,Plasma Membrane,ion channel
+-2.373,downstream,Klrg2,KLRG2,killer cell lectin like receptor G2,Other,other
+-2.373,inside,Krr1,KRR1,"KRR1, small subunit processome component homolog",Nucleus,other
+-2.373,upstream,Mef2c,MEF2C,myocyte enhancer factor 2C,Nucleus,transcription regulator
+-2.373,upstream,Mir592,mir-592,microRNA 592,Cytoplasm,microRNA
+-2.373,upstream,Msl3l2,Msl3l2,male-specific lethal 3-like 2 (Drosophila),Other,other
+-2.373,upstream,Olfr596,Olfr596/Olfr603,olfactory receptor 603,Plasma Membrane,G-protein coupled receptor
+-2.373,upstream,Pdcd1,PDCD1,programmed cell death 1,Plasma Membrane,phosphatase
+-2.373,upstream,Phxr4,Phxr4,per-hexamer repeat gene 4,Plasma Membrane,other
+-2.373,downstream,Plch1,PLCH1,phospholipase C eta 1,Cytoplasm,enzyme
+-2.373,downstream,Rps15a,RPS15A,ribosomal protein S15a,Cytoplasm,other
+-2.373,inside,Sema6d,SEMA6D,semaphorin 6D,Plasma Membrane,other
+-2.373,downstream,Slc19a3,SLC19A3,solute carrier family 19 member 3,Plasma Membrane,transporter
+-2.373,upstream,Slitrk5,SLITRK5,SLIT and NTRK like family member 5,Other,other
+-2.373,upstream,Spink5,SPINK5,"serine peptidase inhibitor, Kazal type 5",Extracellular Space,other
+-2.373,inside,Srd5a1,SRD5A1,steroid 5 alpha-reductase 1,Cytoplasm,enzyme
+-2.373,downstream,Tacstd2,TACSTD2,tumor associated calcium signal transducer 2,Plasma Membrane,other
+-2.373,downstream,Tsn,TSN,translin,Nucleus,other
+-2.373,inside,Ube2ql1,UBE2QL1,ubiquitin conjugating enzyme E2 Q family like 1,Nucleus,enzyme
+-2.373,downstream,Ugt2b35,UGT2B7,UDP glucuronosyltransferase family 2 member B7,Cytoplasm,enzyme
+-2.373,downstream,Vgll2,VGLL2,vestigial like family member 2,Nucleus,transcription regulator
+-2.373,upstream,Vmn2r34,Vmn2r32 (includes others),"vomeronasal 2, receptor 32",Plasma Membrane,G-protein coupled receptor
+-2.373,upstream,Vmn2r37,Vmn2r32 (includes others),"vomeronasal 2, receptor 32",Plasma Membrane,G-protein coupled receptor
+-2.373,downstream,Vmn2r5,Vmn2r5,"vomeronasal 2, receptor 5",Other,other
+-2.373,upstream,Zfp868,Zfp868,zinc finger protein 868,Other,other
+-2.392,upstream,Ppp2r1a,PPP2R1A,protein phosphatase 2 scaffold subunit Aalpha,Cytoplasm,phosphatase
+-2.405,inside,Banf2,BANF2,barrier to autointegration factor 2,Cytoplasm,other
+-2.405,downstream,Dusp6,DUSP6,dual specificity phosphatase 6,Cytoplasm,phosphatase
+-2.405,upstream,Ndst4,NDST4,N-deacetylase and N-sulfotransferase 4,Cytoplasm,enzyme
+-2.405,downstream,Prpmp5,Gm8882 (includes others),proline-rich protein BstNI subfamily 1,Extracellular Space,other
+-2.405,inside,Rarb,RARB,retinoic acid receptor beta,Nucleus,ligand-dependent nuclear receptor
+-2.426,upstream,Id2,ID2,"inhibitor of DNA binding 2, HLH protein",Nucleus,transcription regulator
+-2.43,downstream,Swap70,SWAP70,SWAP switching B-cell complex subunit 70,Cytoplasm,other
+-2.466,upstream,2010204K13Rik,2010204K13Rik,RIKEN cDNA 2010204K13 gene,Other,other
+-2.466,inside,Acap2,ACAP2,"ArfGAP with coiled-coil, ankyrin repeat and PH domains 2",Nucleus,other
+-2.466,upstream,Atp2b1,ATP2B1,ATPase plasma membrane Ca2+ transporting 1,Plasma Membrane,transporter
+-2.466,upstream,Atp8b1,ATP8B1,ATPase phospholipid transporting 8B1,Plasma Membrane,transporter
+-2.466,upstream,Cdh6,CDH6,cadherin 6,Plasma Membrane,other
+-2.466,upstream,Clrn1,CLRN1,clarin 1,Plasma Membrane,other
+-2.466,upstream,Cntn4,CNTN4,contactin 4,Plasma Membrane,enzyme
+-2.466,upstream,Col3a1,COL3A1,collagen type III alpha 1 chain,Extracellular Space,other
+-2.466,upstream,Cox7c,Cox7c,cytochrome c oxidase subunit VIIc,Cytoplasm,other
+-2.466,downstream,Ctsm,Ctsm,cathepsin M,Cytoplasm,peptidase
+-2.466,inside,Fam13c,FAM13C,family with sequence similarity 13 member C,Other,other
+-2.466,inside,Frem3,FREM3,FRAS1 related extracellular matrix 3,Extracellular Space,other
+-2.466,upstream,Frg1,FRG1,FSHD region gene 1,Nucleus,transporter
+-2.466,overlapEnd,Gapdh,GAPDH,glyceraldehyde-3-phosphate dehydrogenase,Cytoplasm,enzyme
+-2.466,downstream,Gm10179,Gm10179,ring finger protein 141 pseudogene,Other,other
+-2.466,downstream,Gm10376,Gm10376 (includes others),predicted gene 3486,Other,other
+-2.466,upstream,Gm12818,Gm12818,predicted gene 12818,Other,other
+-2.466,upstream,Gm12897,Gm12897,predicted gene 12897,Other,other
+-2.466,upstream,Gm13234,Gm13234,predicted gene 13234,Other,other
+-2.466,upstream,Gm13252,Gm13252,"cytochrome c, somatic-like",Other,other
+-2.466,upstream,Gm13384,Gm13384,TRAF-interacting protein pseudogene,Other,other
+-2.466,downstream,Gm13809,Gm13809,lactate dehydrogenase A pseudogene,Other,other
+-2.466,upstream,Gm13899,Gm13899,metal response element binding transcription factor 2 pseudogene,Other,other
+-2.466,downstream,Gm14240,Gm14240,AE binding protein 2 pseudogene,Other,other
+-2.466,upstream,Gm14632,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.466,upstream,Gm15754,Gm15754,predicted gene 15754,Other,other
+-2.466,upstream,Gm16440,Gm16440 (includes others),predicted gene 16440,Other,other
+-2.466,upstream,Gm16458,Gm16458,odorant binding protein Ia pseudogene,Other,other
+-2.466,upstream,Gm6460,Speer4a (includes others),spermatogenesis associated glutamate (E)-rich protein 4A,Nucleus,other
+-2.466,upstream,Gm6460,Speer4a (includes others),spermatogenesis associated glutamate (E)-rich protein 4A,Nucleus,other
+-2.466,downstream,Gm7363,Gm7363,predicted gene 7363,Other,other
+-2.466,upstream,H2-M10.4,H2-M10.1 (includes others),"histocompatibility 2, M region locus 10.1",Plasma Membrane,other
+-2.466,upstream,Iglv1,Iglv1,immunoglobulin lambda variable 1,Other,other
+-2.466,upstream,Kcnq5,KCNQ5,potassium voltage-gated channel subfamily Q member 5,Plasma Membrane,ion channel
+-2.466,downstream,Kif20b,KIF20B,kinesin family member 20B,Nucleus,enzyme
+-2.466,downstream,Mal2,MAL2,"mal, T-cell differentiation protein 2 (gene/pseudogene)",Plasma Membrane,transporter
+-2.466,inside,Mrc2,MRC2,mannose receptor C type 2,Plasma Membrane,transmembrane receptor
+-2.466,upstream,P2ry2,P2RY2,purinergic receptor P2Y2,Plasma Membrane,G-protein coupled receptor
+-2.466,upstream,Pgm2l1,PGM2L1,phosphoglucomutase 2 like 1,Cytoplasm,enzyme
+-2.466,inside,Phkb,PHKB,phosphorylase kinase regulatory subunit beta,Cytoplasm,kinase
+-2.466,upstream,Ptprq,PTPRQ,"protein tyrosine phosphatase, receptor type Q",Extracellular Space,other
+-2.466,downstream,Rab24,Rab24,"RAB24, member RAS oncogene family",Cytoplasm,other
+-2.466,downstream,Rab28,RAB28,"RAB28, member RAS oncogene family",Plasma Membrane,enzyme
+-2.466,upstream,Ranbp6,RANBP6,RAN binding protein 6,Cytoplasm,other
+-2.466,upstream,Samd5,SAMD5,sterile alpha motif domain containing 5,Other,other
+-2.466,upstream,Samd9l,Samd9l,sterile alpha motif domain containing 9-like,Other,other
+-2.466,downstream,Slc5a8,SLC5A8,solute carrier family 5 member 8,Plasma Membrane,transporter
+-2.466,upstream,St8sia2,ST8SIA2,"ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2",Cytoplasm,enzyme
+-2.466,downstream,Tyms,TYMS,thymidylate synthetase,Nucleus,enzyme
+-2.466,inside,Ust,UST,uronyl 2-sulfotransferase,Cytoplasm,enzyme
+-2.466,upstream,Zc3h12a,ZC3H12A,zinc finger CCCH-type containing 12A,Cytoplasm,enzyme
+-2.471,downstream,Cdkn2a,CDKN2A,cyclin dependent kinase inhibitor 2A,Nucleus,transcription regulator
+-2.525,upstream,1700025O08Rik,1700025O08Rik,RIKEN cDNA 1700025O08 gene,Other,other
+-2.525,downstream,Gm11218,Gm11218,alpha-enolase-like,Other,other
+-2.525,downstream,Gm12369,Gm12369,"malate dehydrogenase 2, NAD (mitochondrial) pseudogene",Other,other
+-2.537,downstream,Golim4,GOLIM4,golgi integral membrane protein 4,Cytoplasm,other
+-2.554,upstream,4931417E11Rik,4931417E11Rik,RIKEN cDNA 4931417E11 gene,Other,other
+-2.554,inside,9030624G23Rik,9030624G23Rik (includes others),predicted gene 9257,Cytoplasm,other
+-2.554,upstream,Cdyl,CDYL,chromodomain Y like,Nucleus,transcription regulator
+-2.554,upstream,Cntnap5a,CNTNAP5,contactin associated protein like 5,Other,other
+-2.554,upstream,Cstf2t,CSTF2T,cleavage stimulation factor subunit 2 tau variant,Nucleus,other
+-2.554,inside,Dach1,DACH1,dachshund family transcription factor 1,Nucleus,transcription regulator
+-2.554,upstream,Ftmt,FTMT,ferritin mitochondrial,Cytoplasm,enzyme
+-2.554,upstream,Gm13170,Gm13170,high mobility group box 2 pseudogene,Other,other
+-2.554,downstream,Gm14350,Gm14350,"spindlin family, member 2 pseudogene",Other,other
+-2.554,upstream,Gm15004,Gm15004,"presenilin associated, rhomboid-like pseudogene",Other,other
+-2.554,inside,Gm15319,4930467E23Rik (includes others),RIKEN cDNA 4930467E23 gene,Other,other
+-2.554,upstream,Gm4835,Gm4835,mortality factor 4 like 1 pseudogene,Other,other
+-2.554,downstream,Il1r2,IL1R2,interleukin 1 receptor type 2,Plasma Membrane,transmembrane receptor
+-2.554,upstream,Klhl6,KLHL6,kelch like family member 6,Other,other
+-2.554,upstream,Slc38a2,SLC38A2,solute carrier family 38 member 2,Plasma Membrane,transporter
+-2.554,upstream,Syt1,SYT1,synaptotagmin 1,Cytoplasm,transporter
+-2.554,downstream,Zscan4f,Zscan4c (includes others),zinc finger and SCAN domain containing 4C,Nucleus,other
+-2.582,upstream,Plekhg6,PLEKHG6,pleckstrin homology and RhoGEF domain containing G6,Cytoplasm,other
+-2.596,upstream,Shcbp1,SHCBP1,SHC binding and spindle associated 1,Other,other
+-2.596,inside,Wasf3,WASF3,WAS protein family member 3,Cytoplasm,other
+-2.604,downstream,Fam83a,FAM83A,family with sequence similarity 83 member A,Other,other
+-2.604,inside,Rab11fip3,RAB11FIP3,RAB11 family interacting protein 3,Cytoplasm,other
+-2.631,upstream,Epha5,EPHA5,EPH receptor A5,Plasma Membrane,kinase
+-2.636,upstream,1700084J12Rik,1700084J12Rik,ribosomal protein L7-like 1 pseudogene,Other,other
+-2.636,inside,2410018L13Rik,2410018L13Rik,RIKEN cDNA 2410018L13 gene,Other,other
+-2.636,downstream,4922502D21Rik,4922502D21Rik,RIKEN cDNA 4922502D21 gene,Other,other
+-2.636,upstream,Epha6,EPHA6,EPH receptor A6,Plasma Membrane,kinase
+-2.636,upstream,Gm10486,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.636,upstream,Gm12897,Gm12897,predicted gene 12897,Other,other
+-2.636,upstream,Gm14263,Gm14263,ribosomal protein S2 pseudogene,Other,other
+-2.636,downstream,Gm6851,Gm6851,predicted pseudogene 6851,Other,other
+-2.636,inside,Lrrfip1,Lrrfip1,LRR binding FLII interacting protein 1,Other,other
+-2.636,inside,Sema6d,SEMA6D,semaphorin 6D,Plasma Membrane,other
+-2.636,upstream,Slco6c1,Slco6c1,"solute carrier organic anion transporter family, member 6c1",Plasma Membrane,transporter
+-2.636,upstream,Smad6,SMAD6,SMAD family member 6,Nucleus,transcription regulator
+-2.689,upstream,Fam181b,FAM181B,family with sequence similarity 181 member B,Other,other
+-2.689,downstream,Ogfrl1,OGFRL1,opioid growth factor receptor like 1,Other,other
+-2.689,downstream,Ythdc2,YTHDC2,YTH domain containing 2,Cytoplasm,enzyme
+-2.699,inside,Sipa1l2,SIPA1L2,signal induced proliferation associated 1 like 2,Other,other
+-2.714,upstream,3110079O15Rik,C2orf82,chromosome 2 open reading frame 82,Cytoplasm,other
+-2.714,downstream,A830092H15Rik,A830092H15Rik,RIKEN cDNA A830092H15 gene,Other,other
+-2.714,upstream,Clec2d,Clec2d (includes others),"C-type lectin domain family 2, member D",Plasma Membrane,other
+-2.714,upstream,Cts3,Cts3,cathepsin 3,Other,other
+-2.714,downstream,Fhl4,Fhl4,four and a half LIM domains 4,Other,other
+-2.714,downstream,Gm10376,Gm10376 (includes others),predicted gene 3486,Other,other
+-2.714,downstream,Gm10486,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.714,upstream,Gm10645,Gm10645,predicted gene 10645,Other,other
+-2.714,upstream,Gm12897,Gm12897,predicted gene 12897,Other,other
+-2.714,upstream,Gm12897,Gm12897,predicted gene 12897,Other,other
+-2.714,upstream,Gm15403,Gm15403,protein-L-isoaspartate (D-aspartate) O-methyltransferase domain containing 1 pseudogene,Other,other
+-2.714,upstream,Gm1866,Gm1866,acid phosphatase pseudogene,Other,other
+-2.714,upstream,Gm2288,Gm2288,predicted gene 2288,Other,other
+-2.714,downstream,Gm5507,Gm5507,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+-2.714,upstream,Gm9843,Gm9843,predicted gene 9843,Other,other
+-2.714,upstream,Irak1bp1,IRAK1BP1,interleukin 1 receptor associated kinase 1 binding protein 1,Other,other
+-2.714,inside,Ltbp2,LTBP2,latent transforming growth factor beta binding protein 2,Extracellular Space,other
+-2.714,inside,Npsr1,NPSR1,neuropeptide S receptor 1,Plasma Membrane,G-protein coupled receptor
+-2.714,upstream,Rasa1,RASA1,RAS p21 protein activator 1,Cytoplasm,transporter
+-2.714,upstream,Skint3,Gm12814 (includes others),selection and upkeep of intraepithelial T cells 4,Other,other
+-2.714,upstream,Spock3,SPOCK3,"SPARC/osteonectin, cwcv and kazal like domains proteoglycan 3",Extracellular Space,other
+-2.714,inside,Spsb4,SPSB4,splA/ryanodine receptor domain and SOCS box containing 4,Other,other
+-2.714,upstream,Vmn2r34,Vmn2r32 (includes others),"vomeronasal 2, receptor 32",Plasma Membrane,G-protein coupled receptor
+-2.739,downstream,BC048507,BC048507,cDNA sequence BC048507,Other,other
+-2.788,downstream,2310057J18Rik,2310057J18Rik,RIKEN cDNA 2310057J18 gene,Cytoplasm,other
+-2.788,upstream,Actrt1,ACTRT1,actin related protein T1,Cytoplasm,other
+-2.788,inside,Cadps2,CADPS2,calcium dependent secretion activator 2,Plasma Membrane,other
+-2.788,upstream,Card11,CARD11,caspase recruitment domain family member 11,Cytoplasm,kinase
+-2.788,upstream,Enpp6,ENPP6,ectonucleotide pyrophosphatase/phosphodiesterase 6,Cytoplasm,enzyme
+-2.788,upstream,Epha6,EPHA6,EPH receptor A6,Plasma Membrane,kinase
+-2.788,upstream,Ermn,ERMN,ermin,Extracellular Space,other
+-2.788,inside,Fsip1,FSIP1,fibrous sheath interacting protein 1,Other,other
+-2.788,upstream,Glra2,GLRA2,glycine receptor alpha 2,Plasma Membrane,ion channel
+-2.788,downstream,Gm10479,Gm10479,predicted gene 10479,Other,other
+-2.788,upstream,Gm15264,Gm15264,tuftelin 1 pseudogene,Other,other
+-2.788,downstream,Gm6460,Speer4a (includes others),spermatogenesis associated glutamate (E)-rich protein 4A,Nucleus,other
+-2.788,downstream,H1fnt,H1fnt,"H1 histone family, member N, testis-specific",Nucleus,other
+-2.788,inside,Nek5,NEK5,NIMA related kinase 5,Other,kinase
+-2.788,upstream,Satl1,SATL1,spermidine/spermine N1-acetyl transferase-like 1,Other,other
+-2.788,downstream,Tmx1,TMX1,thioredoxin related transmembrane protein 1,Cytoplasm,enzyme
+-2.788,inside,Wrn,WRN,Werner syndrome RecQ like helicase,Nucleus,enzyme
+-2.836,upstream,Snx2,SNX2,sorting nexin 2,Cytoplasm,transporter
+-2.859,downstream,4921530L21Rik,4921530L21Rik,RIKEN cDNA 4921530L21 gene,Other,other
+-2.859,downstream,Gm8279,Gm16434 (includes others),predicted gene 6676,Other,other
+-2.859,upstream,Lrtm1,Lrtm1,leucine-rich repeats and transmembrane domains 1,Other,other
+-2.859,inside,Muc5b,MUC5B,"mucin 5B, oligomeric mucus/gel-forming",Extracellular Space,peptidase
+-2.859,inside,Pdss2,PDSS2,decaprenyl diphosphate synthase subunit 2,Cytoplasm,enzyme
+-2.859,upstream,Rpl36-ps3,Rpl36-ps3,"ribosomal protein L36, pseudogene 3",Other,other
+-2.893,downstream,Gm13937,Gm13937,lactate dehydrogenase A pseudogene,Other,other
+-2.926,downstream,Cox7b2,Cox7b2,cytochrome c oxidase subunit VIIb2,Other,other
+-2.926,downstream,Gm15394,Gm15394,"DnaJ (Hsp40) homolog, subfamily C, member 10 pseudogene",Other,other
+-2.926,upstream,Kcnj8,KCNJ8,potassium voltage-gated channel subfamily J member 8,Plasma Membrane,ion channel
+-2.926,upstream,Msl3l2,Msl3l2,male-specific lethal 3-like 2 (Drosophila),Other,other
+-2.926,inside,Tbc1d22a,TBC1D22A,TBC1 domain family member 22A,Other,other
+-2.926,upstream,Zkscan2,ZKSCAN2,zinc finger with KRAB and SCAN domains 2,Nucleus,transcription regulator
+-2.99,upstream,4933411O13Rik,4933411O13Rik,RIKEN cDNA 4933411O13 gene,Other,other
+-2.99,upstream,Cdkl4,CDKL4,cyclin dependent kinase like 4,Nucleus,kinase
+-2.99,downstream,Gm14632,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-2.99,upstream,Id2,ID2,"inhibitor of DNA binding 2, HLH protein",Nucleus,transcription regulator
+-2.99,upstream,Oit1,FAM3D,family with sequence similarity 3 member D,Extracellular Space,cytokine
+-3.002,upstream,Fcho1,Fcho1,FCH domain only 1,Plasma Membrane,other
+-3.051,upstream,1700084J12Rik,1700084J12Rik,ribosomal protein L7-like 1 pseudogene,Other,other
+-3.051,downstream,3110018I06Rik,3110018I06Rik,RIKEN cDNA 3110018I06 gene,Other,other
+-3.051,upstream,4921530L21Rik,4921530L21Rik,RIKEN cDNA 4921530L21 gene,Other,other
+-3.051,upstream,4930578C19Rik,CXorf36,chromosome X open reading frame 36,Other,other
+-3.051,upstream,Aard,AARD,alanine and arginine rich domain containing protein,Other,other
+-3.051,inside,Adcy2,ADCY2,adenylate cyclase 2,Plasma Membrane,enzyme
+-3.051,upstream,Agk,AGK,acylglycerol kinase,Cytoplasm,kinase
+-3.051,upstream,Akr1c14,Akr1c14,"aldo-keto reductase family 1, member C14",Cytoplasm,enzyme
+-3.051,downstream,Atg14,ATG14,autophagy related 14,Cytoplasm,other
+-3.051,downstream,Atp6v1h,ATP6V1H,ATPase H+ transporting V1 subunit H,Cytoplasm,transporter
+-3.051,downstream,BC067074,BC067074,cDNA sequence BC067074,Other,other
+-3.051,upstream,C030017K20Rik,C030017K20Rik,RIKEN cDNA C030017K20 gene,Other,other
+-3.051,inside,Cd109,CD109,CD109 molecule,Plasma Membrane,other
+-3.051,upstream,Cenpw,CENPW,centromere protein W,Nucleus,other
+-3.051,upstream,Clnk,CLNK,cytokine dependent hematopoietic cell linker,Cytoplasm,other
+-3.051,upstream,Cndp1,CNDP1,carnosine dipeptidase 1,Cytoplasm,peptidase
+-3.051,inside,Cops4,COPS4,COP9 signalosome subunit 4,Cytoplasm,peptidase
+-3.051,upstream,Cyp3a16,CYP3A5,cytochrome P450 family 3 subfamily A member 5,Cytoplasm,enzyme
+-3.051,inside,Dach1,DACH1,dachshund family transcription factor 1,Nucleus,transcription regulator
+-3.051,upstream,Dcn,DCN,decorin,Extracellular Space,other
+-3.051,upstream,Dedd,DEDD,death effector domain containing,Nucleus,other
+-3.051,upstream,Defb39,Defb39,defensin beta 39,Extracellular Space,other
+-3.051,upstream,Ednra,EDNRA,endothelin receptor type A,Plasma Membrane,transmembrane receptor
+-3.051,upstream,Epha4,EPHA4,EPH receptor A4,Plasma Membrane,kinase
+-3.051,upstream,Exo1,EXO1,exonuclease 1,Nucleus,enzyme
+-3.051,upstream,Fam174a,FAM174A,family with sequence similarity 174 member A,Extracellular Space,other
+-3.051,upstream,Fbxl7,FBXL7,F-box and leucine rich repeat protein 7,Cytoplasm,enzyme
+-3.051,inside,Filip1,FILIP1,filamin A interacting protein 1,Cytoplasm,other
+-3.051,downstream,Gadd45g,GADD45G,growth arrest and DNA damage inducible gamma,Nucleus,other
+-3.051,upstream,Gdnf,GDNF,glial cell derived neurotrophic factor,Extracellular Space,growth factor
+-3.051,upstream,Gm10051,Gm10051,predicted pseudogene 10051,Other,other
+-3.051,upstream,Gm11953,Gm11953,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+-3.051,upstream,Gm13308,Gm13308 (includes others),predicted gene 13308,Other,other
+-3.051,upstream,Gm13517,Gm13517,"eukaryotic translation initiation factor 4, gamma 1 pseudogene",Other,other
+-3.051,upstream,Gm13527,Gm13527,glyceraldehyde-3-phosphate dehydrogenase pseudogene,Other,other
+-3.051,upstream,Gm14632,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-3.051,upstream,Gm14898,Gm14898,guanosine diphosphate (GDP) dissociation inhibitor 2 pseudogene,Other,other
+-3.051,upstream,Gm14913,Gm14913,tousled-like kinase 1 pseudogene,Other,other
+-3.051,upstream,Gm15160,Gm15160,"GDP-mannose 4, 6-dehydratase pseudogene",Other,other
+-3.051,downstream,Gm15413,Gm15413,predicted gene 15413,Other,other
+-3.051,upstream,Gm15459,Gm15459,heat shock protein 8 pseudogene,Other,other
+-3.051,upstream,Gm1840,Gm1840,glucose phosphate isomerase 1 pseudogene,Other,other
+-3.051,downstream,Gm3757,SPIN2A/SPIN2B,spindlin family member 2A,Other,other
+-3.051,upstream,Gm4825,Gm4825,ribosomal protein L27 pseudogene,Other,other
+-3.051,upstream,Gm4994,Gm4994,predicted gene 4994,Other,other
+-3.051,upstream,Gm5381,Gm5381,"makorin, ring finger protein, 2 pseudogene",Other,other
+-3.051,overlapStart,Gm5639,Gm14685 (includes others),predicted gene 14685,Other,other
+-3.051,upstream,Gm5934,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-3.051,upstream,Gm5942,Gm5942,predicted gene 5942,Other,other
+-3.051,downstream,Gm6754,Gm6754,predicted pseudogene 6754,Other,other
+-3.051,downstream,Gm7146,Gm7146,predicted pseudogene 7146,Other,other
+-3.051,upstream,Gm7729,Gm7729,heterogeneous nuclear ribonucleoprotein A1 pseudogene,Other,other
+-3.051,downstream,Gm7729,Gm7729,heterogeneous nuclear ribonucleoprotein A1 pseudogene,Other,other
+-3.051,upstream,Gm8730,Gm8730,"ribosomal protein, large, P0 pseudogene",Other,other
+-3.051,upstream,Gm9387,Gm9387,tetratricopeptide repeat domain 5 pseudogene,Other,other
+-3.051,upstream,Gp1ba,GP1BA,glycoprotein Ib platelet alpha subunit,Plasma Membrane,transmembrane receptor
+-3.051,upstream,Ifi204,IFI16,interferon gamma inducible protein 16,Nucleus,transcription regulator
+-3.051,inside,Il5ra,IL5RA,interleukin 5 receptor subunit alpha,Plasma Membrane,transmembrane receptor
+-3.051,upstream,Il7,IL7,interleukin 7,Extracellular Space,cytokine
+-3.051,inside,Isoc1,ISOC1,isochorismatase domain containing 1,Cytoplasm,enzyme
+-3.051,upstream,Kcnv1,KCNV1,potassium voltage-gated channel modifier subfamily V member 1,Plasma Membrane,ion channel
+-3.051,downstream,Lipi,LIPI,lipase I,Extracellular Space,enzyme
+-3.051,upstream,Mbnl1,MBNL1,muscleblind like splicing regulator 1,Nucleus,other
+-3.051,upstream,Med27,MED27,mediator complex subunit 27,Nucleus,transcription regulator
+-3.051,downstream,Mrgprb3,Mrgprb3,"MAS-related GPR, member B3",Other,other
+-3.051,downstream,Mrgprb5,Mrgprb4/Mrgprb5,"MAS-related GPR, member B5",Plasma Membrane,G-protein coupled receptor
+-3.051,downstream,Mtrr,MTRR,5-methyltetrahydrofolate-homocysteine methyltransferase reductase,Cytoplasm,enzyme
+-3.051,upstream,Myrip,MYRIP,myosin VIIA and Rab interacting protein,Cytoplasm,other
+-3.051,upstream,Nedd1,NEDD1,"neural precursor cell expressed, developmentally down-regulated 1",Cytoplasm,other
+-3.051,inside,Nell1,NELL1,neural EGFL like 1,Extracellular Space,growth factor
+-3.051,upstream,Nrm,NRM,nurim (nuclear envelope membrane protein),Nucleus,other
+-3.051,upstream,Ostn,OSTN,osteocrin,Extracellular Space,other
+-3.051,upstream,Pnma5,PNMA5,paraneoplastic Ma antigen family member 5,Other,other
+-3.051,inside,Pnpla8,PNPLA8,patatin like phospholipase domain containing 8,Cytoplasm,enzyme
+-3.051,upstream,Postn,POSTN,periostin,Extracellular Space,other
+-3.051,upstream,Rabl2,RABL2A,"RAB, member of RAS oncogene family like 2A",Cytoplasm,enzyme
+-3.051,upstream,Rbfox1,RBFOX1,"RNA binding protein, fox-1 homolog 1",Cytoplasm,other
+-3.051,downstream,Rbm24,RBM24,RNA binding motif protein 24,Other,other
+-3.051,upstream,Rcn1,RCN1,reticulocalbin 1,Cytoplasm,other
+-3.051,inside,Rdh9,RDH16,retinol dehydrogenase 16 (all-trans),Cytoplasm,enzyme
+-3.051,upstream,Scrg1,SCRG1,stimulator of chondrogenesis 1,Extracellular Space,other
+-3.051,upstream,Slc22a8,SLC22A8,solute carrier family 22 member 8,Plasma Membrane,transporter
+-3.051,upstream,Slc7a12,Slc7a12,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 12",Plasma Membrane,transporter
+-3.051,upstream,Snai2,SNAI2,snail family transcriptional repressor 2,Nucleus,transcription regulator
+-3.051,upstream,Spag17,SPAG17,sperm associated antigen 17,Cytoplasm,other
+-3.051,upstream,Sprr2a3,Sprr2a3,small proline-rich protein 2A3,Other,other
+-3.051,inside,Sprr2a3,Sprr2a3,small proline-rich protein 2A3,Other,other
+-3.051,upstream,St18,ST18,"ST18, C2H2C-type zinc finger",Nucleus,transcription regulator
+-3.051,downstream,Stfa3,Gm4758,predicted gene 4758,Other,other
+-3.051,downstream,Sult1c2,Sult1c2 (includes others),sulfotransferase family 1C member 2,Cytoplasm,enzyme
+-3.051,upstream,Tbc1d9,TBC1D9,TBC1 domain family member 9,Plasma Membrane,other
+-3.051,downstream,Tmem86b,TMEM86B,transmembrane protein 86B,Cytoplasm,enzyme
+-3.051,inside,Tnrc6b,TNRC6B,trinucleotide repeat containing 6B,Other,other
+-3.051,inside,Ttn,TTN,titin,Cytoplasm,kinase
+-3.051,downstream,Vmn1r63,Vmn1r63 (includes others),vomeronasal 1 receptor 63,Other,other
+-3.051,downstream,Xcl1,XCL1,X-C motif chemokine ligand 1,Extracellular Space,cytokine
+-3.051,inside,Zcchc7,ZCCHC7,zinc finger CCHC-type containing 7,Nucleus,other
+-3.051,upstream,Zfp945,Zfp945,zinc finger protein 945,Other,other
+-3.051,downstream,Zscan4f,Zscan4c (includes others),zinc finger and SCAN domain containing 4C,Nucleus,other
+-3.077,inside,Gm10037,Gm10037,predicted gene 10037,Other,other
+-3.11,downstream,Gm8778,Gm8778,interferon stimulated exonuclease gene 20-like 2 pseudogene,Other,other
+-3.129,inside,Zfyve26,ZFYVE26,zinc finger FYVE-type containing 26,Cytoplasm,other
+-3.167,downstream,1700017N19Rik,C12orf50,chromosome 12 open reading frame 50,Other,other
+-3.167,downstream,2610042L04Rik,2610042L04Rik,RIKEN cDNA 2610042L04 gene,Other,other
+-3.167,upstream,4933407E24Rik,4933407E24Rik,RIKEN cDNA 4933407E24 gene,Other,other
+-3.167,upstream,5530401A14Rik,5530401A14Rik,RIKEN cDNA 5530401A14 gene,Other,other
+-3.167,downstream,Abhd5,ABHD5,abhydrolase domain containing 5,Cytoplasm,enzyme
+-3.167,upstream,Appl2,APPL2,"adaptor protein, phosphotyrosine interacting with PH domain and leucine zipper 2",Cytoplasm,other
+-3.167,downstream,B430305J03Rik,B430305J03Rik,RIKEN cDNA B430305J03 gene,Other,other
+-3.167,inside,BC016201,Cngb1,cyclic nucleotide gated channel beta 1,Other,other
+-3.167,downstream,BC030500,BC030500,cDNA sequence BC030500,Other,other
+-3.167,inside,Capsl,CAPSL,calcyphosine like,Other,other
+-3.167,upstream,Cd69,CD69,CD69 molecule,Plasma Membrane,transmembrane receptor
+-3.167,upstream,Cdon,CDON,"cell adhesion associated, oncogene regulated",Plasma Membrane,other
+-3.167,upstream,Cntnap5a,CNTNAP5,contactin associated protein like 5,Other,other
+-3.167,upstream,Dcbld2,DCBLD2,"discoidin, CUB and LCCL domain containing 2",Plasma Membrane,other
+-3.167,upstream,Dcn,DCN,decorin,Extracellular Space,other
+-3.167,inside,Dpyd,DPYD,dihydropyrimidine dehydrogenase,Cytoplasm,enzyme
+-3.167,inside,Elp4,ELP4,elongator acetyltransferase complex subunit 4,Cytoplasm,other
+-3.167,downstream,Fam50b,FAM50B,family with sequence similarity 50 member B,Other,other
+-3.167,downstream,Fgf10,FGF10,fibroblast growth factor 10,Extracellular Space,growth factor
+-3.167,downstream,Glt1d1,GLT1D1,glycosyltransferase 1 domain containing 1,Extracellular Space,enzyme
+-3.167,upstream,Gm10012,Gm10012,"cytochrome c oxidase, subunit VIIc pseudogene",Other,other
+-3.167,upstream,Gm11189,Gm11189,"TAF13 RNA polymerase II, TATA box binding protein (TBP)-associated factor pseudogene",Other,other
+-3.167,upstream,Gm11875,Gm11875,predicted gene 11875,Other,other
+-3.167,upstream,Gm12830,Gm12830,predicted gene 12830,Other,other
+-3.167,upstream,Gm13482,Gm13482,R3H domain containing 2 pseudogene,Other,other
+-3.167,downstream,Gm13937,Gm13937,lactate dehydrogenase A pseudogene,Other,other
+-3.167,upstream,Gm14971,Gm14971,crumbs homolog 1 pseudogene,Other,other
+-3.167,downstream,Gm15355,Gm15355,"ribosomal protein, large, P0 pseudogene",Other,other
+-3.167,upstream,Gm5620,Gm5620,"tubulin, alpha 1B pseudogene",Other,other
+-3.167,downstream,Gm6954,Gm6954,anaphase promoting complex subunit 13 pseudogene,Other,other
+-3.167,downstream,Gm7381,Gm7381,Wilms' tumour 1-associating protein pseudogene,Other,other
+-3.167,upstream,Gm9387,Gm9387,tetratricopeptide repeat domain 5 pseudogene,Other,other
+-3.167,upstream,Gria1,GRIA1,glutamate ionotropic receptor AMPA type subunit 1,Plasma Membrane,ion channel
+-3.167,upstream,Id2,ID2,"inhibitor of DNA binding 2, HLH protein",Nucleus,transcription regulator
+-3.167,inside,Ift80,IFT80,intraflagellar transport 80,Extracellular Space,other
+-3.167,upstream,Ins2,INS,insulin,Extracellular Space,other
+-3.167,upstream,Ivd,IVD,isovaleryl-CoA dehydrogenase,Cytoplasm,enzyme
+-3.167,downstream,Mir592,mir-592,microRNA 592,Cytoplasm,microRNA
+-3.167,downstream,Mpped1,MPPED1,metallophosphoesterase domain containing 1,Other,other
+-3.167,inside,Mtbp,MTBP,MDM2 binding protein,Cytoplasm,other
+-3.167,downstream,Mtrr,MTRR,5-methyltetrahydrofolate-homocysteine methyltransferase reductase,Cytoplasm,enzyme
+-3.167,downstream,Mut,MUT,methylmalonyl-CoA mutase,Cytoplasm,enzyme
+-3.167,downstream,Nfatc1,NFATC1,nuclear factor of activated T-cells 1,Nucleus,transcription regulator
+-3.167,inside,Nlrp4c,NLRP4,NLR family pyrin domain containing 4,Cytoplasm,other
+-3.167,upstream,Olfr1079,Olfr1079,olfactory receptor 1079,Plasma Membrane,G-protein coupled receptor
+-3.167,inside,Optn,OPTN,optineurin,Cytoplasm,other
+-3.167,downstream,Parp8,PARP8,poly(ADP-ribose) polymerase family member 8,Other,other
+-3.167,upstream,Pkdcc,PKDCC,"protein kinase domain containing, cytoplasmic",Cytoplasm,kinase
+-3.167,upstream,Ptger3,PTGER3,prostaglandin E receptor 3,Plasma Membrane,G-protein coupled receptor
+-3.167,inside,Rgs10,RGS10,regulator of G protein signaling 10,Cytoplasm,other
+-3.167,upstream,Rnpc3,RNPC3,"RNA binding region (RNP1, RRM) containing 3",Nucleus,other
+-3.167,downstream,Sec23a,SEC23A,"Sec23 homolog A, coat complex II component",Cytoplasm,transporter
+-3.167,inside,Sema4f,SEMA4F,ssemaphorin 4F,Plasma Membrane,other
+-3.167,upstream,Sgcz,SGCZ,sarcoglycan zeta,Plasma Membrane,other
+-3.167,inside,Sh3bp4,SH3BP4,SH3 domain binding protein 4,Cytoplasm,other
+-3.167,inside,Slc10a7,SLC10A7,solute carrier family 10 member 7,Other,transporter
+-3.167,downstream,Slc36a1,SLC36A1,solute carrier family 36 member 1,Plasma Membrane,transporter
+-3.167,downstream,Stk17b,STK17B,serine/threonine kinase 17b,Nucleus,kinase
+-3.167,upstream,Stk4,STK4,serine/threonine kinase 4,Cytoplasm,kinase
+-3.167,upstream,Sun1,SUN1,Sad1 and UNC84 domain containing 1,Nucleus,other
+-3.167,inside,Syt16,SYT16,synaptotagmin 16,Other,transporter
+-3.167,upstream,Sytl3,SYTL3,synaptotagmin like 3,Cytoplasm,other
+-3.167,upstream,Tipin,Tipin/Tipinl1,timeless interacting protein,Nucleus,other
+-3.167,upstream,Tmem181b-ps,Tmem181b-ps,"transmembrane protein 181B, pseudogene",Other,other
+-3.167,downstream,Trhde,TRHDE,thyrotropin releasing hormone degrading enzyme,Plasma Membrane,peptidase
+-3.167,upstream,Ttc14,TTC14,tetratricopeptide repeat domain 14,Other,other
+-3.167,upstream,Ttc39c,TTC39C,tetratricopeptide repeat domain 39C,Other,other
+-3.167,upstream,Usp9y,Usp9y,"ubiquitin specific peptidase 9, Y-linked",Other,other
+-3.167,inside,Vmn2r7,Vmn2r6 (includes others),"vomeronasal 2, receptor 6",Plasma Membrane,G-protein coupled receptor
+-3.167,inside,Vsnl1,VSNL1,visinin like 1,Cytoplasm,other
+-3.274,downstream,Agbl1,AGBL1,ATP/GTP binding protein like 1,Other,peptidase
+-3.274,inside,Arhgap18,ARHGAP18,Rho GTPase activating protein 18,Cytoplasm,other
+-3.274,inside,BC004004,C6orf89,chromosome 6 open reading frame 89,Cytoplasm,other
+-3.274,upstream,Dcaf12l2,DCAF12L2,DDB1 and CUL4 associated factor 12 like 2,Other,other
+-3.274,upstream,Ece1,ECE1,endothelin converting enzyme 1,Plasma Membrane,peptidase
+-3.274,upstream,Fam49a,FAM49A,family with sequence similarity 49 member A,Other,other
+-3.274,upstream,Fgf14,FGF14,fibroblast growth factor 14,Extracellular Space,growth factor
+-3.274,downstream,Gm10118,Gm10118,predicted gene 10118,Other,other
+-3.274,upstream,Gm10488,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-3.274,upstream,Gm11892,Gm11892,"tubulin, beta 5 pseudogene",Other,other
+-3.274,upstream,Gm12413,Gm12413,phosphoglycerate mutase 1 pseudogene,Other,other
+-3.274,upstream,Gm14485,Gm14485,peptidylprolyl isomerase A pseudogene x_105.1,Other,other
+-3.274,upstream,Gm15160,Gm15160,"GDP-mannose 4, 6-dehydratase pseudogene",Other,other
+-3.274,downstream,Gm2288,Gm2288,predicted gene 2288,Other,other
+-3.274,downstream,Gm5265,Gm5265,predicted pseudogene 5265,Other,other
+-3.274,downstream,Gm5941,1700010D01Rik/Gm5941,predicted gene 5941,Other,other
+-3.274,downstream,Gm7367,Gm7367,1110014K08Rik pseudogene,Other,other
+-3.274,upstream,Hdac2,HDAC2,histone deacetylase 2,Nucleus,transcription regulator
+-3.274,upstream,Hnf4g,HNF4G,hepatocyte nuclear factor 4 gamma,Nucleus,transcription regulator
+-3.274,upstream,Klhl11,KLHL11,kelch like family member 11,Other,other
+-3.274,upstream,Map3k7,MAP3K7,mitogen-activated protein kinase kinase kinase 7,Cytoplasm,kinase
+-3.274,downstream,Mefv,MEFV,"MEFV, pyrin innate immunity regulator",Nucleus,other
+-3.274,upstream,Mrpl15,Mrpl15,mitochondrial ribosomal protein L15,Cytoplasm,other
+-3.274,inside,Msh2,MSH2,mutS homolog 2,Nucleus,enzyme
+-3.274,inside,Mto1,MTO1,mitochondrial tRNA translation optimization 1,Cytoplasm,enzyme
+-3.274,upstream,Myrip,MYRIP,myosin VIIA and Rab interacting protein,Cytoplasm,other
+-3.274,upstream,Npy2r,NPY2R,neuropeptide Y receptor Y2,Plasma Membrane,G-protein coupled receptor
+-3.274,downstream,Papd7,PAPD7,"poly(A) RNA polymerase D7, non-canonical",Nucleus,enzyme
+-3.274,downstream,Pdcd6ip,PDCD6IP,programmed cell death 6 interacting protein,Cytoplasm,other
+-3.274,downstream,Prss52,Prss52,"protease, serine 52",Other,other
+-3.274,upstream,Pter,PTER,phosphotriesterase related,Cytoplasm,enzyme
+-3.274,upstream,Rheb,RHEB,Ras homolog enriched in brain,Cytoplasm,enzyme
+-3.274,upstream,Rps15a-ps8,Rps15a-ps8,"ribosomal protein S15A, pseudogene 8",Other,other
+-3.274,inside,Setbp1,SETBP1,SET binding protein 1,Nucleus,other
+-3.274,upstream,Speer3,Speer4a (includes others),spermatogenesis associated glutamate (E)-rich protein 4A,Nucleus,other
+-3.274,upstream,Spopl,SPOPL,speckle type BTB/POZ protein like,Other,other
+-3.274,upstream,Tprg,TPRG1,tumor protein p63 regulated 1,Cytoplasm,other
+-3.274,upstream,Ttc39a,Ttc39a,tetratricopeptide repeat domain 39A,Other,other
+-3.274,inside,Zfp385b,ZNF385B,zinc finger protein 385B,Nucleus,other
+-3.274,inside,Zfpm2,ZFPM2,"zinc finger protein, FOG family member 2",Nucleus,transcription regulator
+-3.373,downstream,5730460C07Rik,5730460C07Rik,RIKEN cDNA 5730460C07 gene,Other,other
+-3.373,inside,Abat,ABAT,4-aminobutyrate aminotransferase,Cytoplasm,enzyme
+-3.373,downstream,Ankmy2,ANKMY2,ankyrin repeat and MYND domain containing 2,Plasma Membrane,other
+-3.373,inside,Card11,CARD11,caspase recruitment domain family member 11,Cytoplasm,kinase
+-3.373,downstream,Cdk5r1,CDK5R1,cyclin dependent kinase 5 regulatory subunit 1,Nucleus,kinase
+-3.373,downstream,Dach1,DACH1,dachshund family transcription factor 1,Nucleus,transcription regulator
+-3.373,inside,Fggy,FGGY,FGGY carbohydrate kinase domain containing,Other,other
+-3.373,downstream,Gadd45g,GADD45G,growth arrest and DNA damage inducible gamma,Nucleus,other
+-3.373,inside,Glrb,GLRB,glycine receptor beta,Plasma Membrane,ion channel
+-3.373,upstream,Gm10087,Gm10087,predicted gene 10087,Other,other
+-3.373,downstream,Gm13937,Gm13937,lactate dehydrogenase A pseudogene,Other,other
+-3.373,downstream,Gm14632,Gm4836 (includes others),predicted gene 4836,Nucleus,other
+-3.373,downstream,Gm2066,Gm2066 (includes others),predicted pseudogene 2066,Other,other
+-3.373,upstream,Gm3757,SPIN2A/SPIN2B,spindlin family member 2A,Other,other
+-3.373,downstream,Gm4991,Gm4991,karyopherin (importin) alpha 2 pseudogene,Other,other
+-3.373,upstream,Gm6767,Gm6767,eukaryotic translation elongation factor 1 alpha 1 pseudogene,Other,other
+-3.373,upstream,Gm7485,Gm7485,"aldolase A, fructose-bisphosphate pseudogene",Other,other
+-3.373,upstream,Gm8271,Gm10408 (includes others),predicted gene 3115,Other,other
+-3.373,downstream,Lrrtm1,LRRTM1,leucine rich repeat transmembrane neuronal 1,Plasma Membrane,other
+-3.373,inside,Nedd4l,NEDD4L,"neural precursor cell expressed, developmentally down-regulated 4-like, E3 ubiquitin protein ligase",Cytoplasm,enzyme
+-3.373,inside,Ophn1,OPHN1,oligophrenin 1,Cytoplasm,other
+-3.373,upstream,Paqr6,PAQR6,progestin and adipoQ receptor family member 6,Plasma Membrane,other
+-3.373,downstream,Rbpsuh-rs3,Rbpsuh-rs3,"recombining binding protein suppressor of hairless (Drosophila), related sequence 3",Other,other
+-3.373,downstream,Rbpsuh-rs3,Rbpsuh-rs3,"recombining binding protein suppressor of hairless (Drosophila), related sequence 3",Other,other
+-3.373,inside,Rgs20,RGS20,regulator of G protein signaling 20,Cytoplasm,other
+-3.373,upstream,Ripk3,RIPK3,receptor interacting serine/threonine kinase 3,Plasma Membrane,kinase
+-3.373,upstream,Rpl36-ps10,Rpl36-ps10,"ribosomal protein L36, pseudogene 10",Other,other
+-3.373,downstream,Skint3,Gm12814 (includes others),selection and upkeep of intraepithelial T cells 4,Other,other
+-3.373,downstream,Srfbp1,SRFBP1,serum response factor binding protein 1,Nucleus,other
+-3.373,downstream,Sval3,Sval3,seminal vesicle antigen-like 3,Other,other
+-3.373,downstream,Tlr5,TLR5,toll like receptor 5,Plasma Membrane,transmembrane receptor
+-3.373,inside,Tubgcp3,Tubgcp3,"tubulin, gamma complex associated protein 3",Cytoplasm,other
+-3.373,downstream,Vmn1r19,Vmn1r19,vomeronasal 1 receptor 19,Plasma Membrane,G-protein coupled receptor
+-3.373,inside,Wdfy1,Wdfy1,WD repeat and FYVE domain containing 1,Cytoplasm,other
+-3.373,inside,Wdfy1,Wdfy1,WD repeat and FYVE domain containing 1,Cytoplasm,other
+-3.466,inside,1700110I01Rik,1700110I01Rik,RIKEN cDNA 1700110I01 gene,Other,other
+-3.466,inside,6030498E09Rik,6030498E09Rik,RIKEN cDNA 6030498E09 gene,Other,other
+-3.466,upstream,Arhgap42,ARHGAP42,Rho GTPase activating protein 42,Other,other
+-3.466,inside,BC016201,Cngb1,cyclic nucleotide gated channel beta 1,Other,other
+-3.466,downstream,C130026L21Rik,C130026L21Rik,RIKEN cDNA C130026L21 gene,Other,other
+-3.466,upstream,Ccr3,CCR3,C-C motif chemokine receptor 3,Plasma Membrane,G-protein coupled receptor
+-3.466,inside,Cntnap5a,CNTNAP5,contactin associated protein like 5,Other,other
+-3.466,upstream,Cox7c,Cox7c,cytochrome c oxidase subunit VIIc,Cytoplasm,other
+-3.466,downstream,Eif4ebp1,EIF4EBP1,eukaryotic translation initiation factor 4E binding protein 1,Cytoplasm,translation regulator
+-3.466,downstream,Fgf10,FGF10,fibroblast growth factor 10,Extracellular Space,growth factor
+-3.466,upstream,Gm10330,Gm10330,predicted gene 10330,Other,other
+-3.466,downstream,Gm11809,Gm11809,PRP3 pre-mRNA processing factor 3 homolog pseudogene,Other,other
+-3.466,downstream,Gm14599,Gm14599,X-linked lymphocyte-regulated complex pseudogene,Other,other
+-3.466,inside,Gm15080,Ott (includes others),ovary testis transcribed,Other,other
+-3.466,downstream,Gm5600,Gm5600,predicted gene 5600,Other,other
+-3.466,upstream,Gnai1,GNAI1,G protein subunit alpha i1,Plasma Membrane,enzyme
+-3.466,upstream,Ins1,Ins1,insulin I,Extracellular Space,other
+-3.466,inside,Itga8,ITGA8,integrin subunit alpha 8,Plasma Membrane,other
+-3.466,upstream,Jag1,JAG1,jagged 1,Extracellular Space,growth factor
+-3.466,upstream,Pcdh10,Pcdh10,protocadherin 10,Other,other
+-3.466,downstream,Ppp1r17,PPP1R17,protein phosphatase 1 regulatory subunit 17,Cytoplasm,other
+-3.466,upstream,Serbp1,Serbp1,Serpine1 mRNA binding protein 1,Cytoplasm,other
+-3.466,upstream,Wasl,Wasl,Wiskott-Aldrich syndrome-like (human),Cytoplasm,other
+-3.554,upstream,Cc2d2a,CC2D2A,coiled-coil and C2 domain containing 2A,Cytoplasm,other
+-3.554,inside,Csmd1,CSMD1,CUB and Sushi multiple domains 1,Plasma Membrane,other
+-3.554,downstream,Gm16294,Gm16294,predicted gene 16294,Other,other
+-3.554,inside,Hibch,HIBCH,3-hydroxyisobutyryl-CoA hydrolase,Cytoplasm,enzyme
+-3.554,downstream,Ifna-ps1,Ifna-ps1,"interferon alpha gene, pseudogene 1",Other,other
+-3.554,upstream,Nmt2,NMT2,N-myristoyltransferase 2,Cytoplasm,enzyme
+-3.554,upstream,Pcdh20,PCDH20,protocadherin 20,Other,other
+-3.554,upstream,Pdcd1,PDCD1,programmed cell death 1,Plasma Membrane,phosphatase
+-3.554,downstream,Qrfp,QRFP,pyroglutamylated RFamide peptide,Extracellular Space,other
+-3.554,downstream,Reg3g,REG3G,regenerating family member 3 gamma,Extracellular Space,other
+-3.554,downstream,Tlr4,TLR4,toll like receptor 4,Plasma Membrane,transmembrane receptor
+-3.554,inside,Tnrc6b,TNRC6B,trinucleotide repeat containing 6B,Other,other
+-3.554,downstream,Vmn2r121,Vmn2r88 (includes others),"vomeronasal 2, receptor 88",Other,other
+-3.636,inside,Abcc2,ABCC2,ATP binding cassette subfamily C member 2,Plasma Membrane,transporter
+-3.636,downstream,Amfr,AMFR,autocrine motility factor receptor,Plasma Membrane,transmembrane receptor
+-3.636,inside,Arsk,ARSK,arylsulfatase family member K,Extracellular Space,enzyme
+-3.636,upstream,Gm7099,Gm7099,predicted gene 7099,Other,other
+-3.636,upstream,Grm3,GRM3,glutamate metabotropic receptor 3,Plasma Membrane,G-protein coupled receptor
+-3.636,inside,Htr1f,HTR1F,5-hydroxytryptamine receptor 1F,Plasma Membrane,G-protein coupled receptor
+-3.636,downstream,Olfr503,Olfr503,olfactory receptor 503,Plasma Membrane,G-protein coupled receptor
+-3.636,includeFeature,Rpl18-ps1,Rpl18-ps1,"ribosomal protein L18, pseudogene 1",Other,other
+-3.714,downstream,Foxl1,FOXL1,forkhead box L1,Nucleus,transcription regulator
+-3.714,upstream,Gm13768,Gm13768,"protein tyrosine phosphatase, receptor type, J pseudogene",Other,other
+-3.714,upstream,Zmat4,ZMAT4,zinc finger matrin-type 4,Nucleus,other
+-3.788,inside,Farp1,FARP1,"FERM, ARH/RhoGEF and pleckstrin domain protein 1",Plasma Membrane,other
+-3.788,downstream,Gm16439,Gm16439,BCL2/adenovirus E1B interacting protein 3,Other,other
+-3.788,upstream,Slc24a4,Slc24a4,solute carrier family 24 member 4,Plasma Membrane,transporter
+-3.788,inside,Tnrc18,TNRC18,trinucleotide repeat containing 18,Nucleus,other
+-3.859,upstream,Gm13163,Gm13163,predicted gene 13163,Other,other
+-3.859,downstream,Zfp536,ZNF536,zinc finger protein 536,Other,transcription regulator
+-3.926,inside,Skint5,Skint5/Skint6,selection and upkeep of intraepithelial T cells 6,Other,other
+-3.926,upstream,Ttr,TTR,transthyretin,Extracellular Space,transporter
+-3.99,downstream,Xrcc6bp1, ,XRCC6 binding protein 1 [Source:MGI Symbol;Acc:MGI:1916984],other,kinase
+-4.051,inside,Lcmt1,LCMT1,leucine carboxyl methyltransferase 1,Cytoplasm,enzyme
+-4.324,inside,Nr4a1,NR4A1,nuclear receptor subfamily 4 group A member 1,Nucleus,ligand-dependent nuclear receptor
+-4.373,downstream,Cisd2,CISD2,CDGSH iron sulfur domain 2,Cytoplasm,other
+-5.021,inside,1700018B08Rik,C16orf95,chromosome 16 open reading frame 95,Other,other
+-5.824,inside,Rrbp1,Rrbp1,ribosome binding protein 1,Cytoplasm,transporter
